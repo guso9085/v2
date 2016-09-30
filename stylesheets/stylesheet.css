@@ -12,8 +12,9 @@ body {
 	height: 100%;
 }
 
-header h1 {
-	font-size: 2em;
+header {
+	background-image: url("/image/banner.png");
+	background-size: cover;
 }
 
 .navbar {
@@ -57,10 +58,4 @@ section {
 .fa.fa-linkedin{
 	color: #ecf0f1;
 	font-size: 50px;
-}
-
-.banner img {
-    width: calc(100% + 28px);
-    margin-left: -19px;
-    margin-top: -9px;
 }
