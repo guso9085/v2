@@ -56,6 +56,7 @@ section {
 }
 
 .banner img {
-    width: 100%;
+    width: calc(100% + 28px);
+    margin-left: -19px;
     margin-top: -9px;
 }
