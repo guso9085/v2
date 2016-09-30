@@ -8,7 +8,7 @@ html {
 body {
 	background-color: #34495e;
 	color: #bdc3c7;
-	font-family: Kreon;
+	font-family: Raleway;
 	height: 100%;
 }
 
@@ -94,6 +94,7 @@ a{
 
 section {
 	color: #ecf0f1;
+	font-family: Kreon;
 }
 
 .linkedin {
