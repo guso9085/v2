@@ -67,7 +67,7 @@ section p {
 		height: 250px;
     border: 8px solid #344146;
     display: block;
-    margin: auto;
+    margin: auto 10px;
 		padding-bottom: 5px;
 		box-shadow: 0px 4px 28px rgba(0,0,0,.4);
 		display: inline-block;
@@ -80,7 +80,7 @@ section p {
 		height: 250px;
     border: 8px solid #344146;
     display: block;
-    margin: auto;
+    margin: auto 10px;
 		padding-bottom: 5px;
 		box-shadow: 0px 4px 28px rgba(0,0,0,.4);
 		display: inline-block;
