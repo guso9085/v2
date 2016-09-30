@@ -23,15 +23,14 @@ header h1 {
 
 .navbar {
     background-color: #3E4651;
-    padding: 20px;
+    padding: 5px;
     position: fixed;
     border: 3px solid #344146;
 }
-
 .navbar li {
-	list-style-type: none;
-	margin-bottom: 10px;
-	margin-left: -33px;
+    list-style-type: none;
+    margin-bottom: 10px;
+    margin-left: -39px;
 }
 
 .container {
