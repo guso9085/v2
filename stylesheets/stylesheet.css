@@ -97,6 +97,7 @@ section {
     border-radius: 10px;
     line-height: 1px;
     text-align: center;
+		transition: box-shadow 1s;
 }
 
 .linkedin:hover {
@@ -117,6 +118,7 @@ section {
     border-radius: 10px;
     line-height: 1px;
     text-align: center;
+		transition: box-shadow 1s;
 }
 
 .soundcloud:hover {
@@ -137,6 +139,7 @@ section {
 		border-radius: 10px;
 		line-height: 1px;
 		text-align: center;
+		transition: box-shadow 1s;
 }
 
 .facebook:hover {
@@ -157,6 +160,7 @@ section {
 		border-radius: 10px;
 		line-height: 1px;
 		text-align: center;
+		transition: box-shadow 1s;
 }
 
 .twitter:hover {
