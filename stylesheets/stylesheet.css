@@ -38,12 +38,13 @@ header h1 {
     position: fixed;
     border: 3px solid #344146;
 		top: 10px;
+		box-shadow: 3px 3px 8px rgba(0,0,0,.4);
 }
 .navbar li {
     list-style-type: none;
     margin-bottom: 10px;
     margin-left: -39px;
-		box-shadow: 1px 1px 3px rgba(0,0,0,.4);
+		box-shadow: 3px 3px 8px rgba(0,0,0,.4);
 }
 
 .container {
