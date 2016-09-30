@@ -28,13 +28,14 @@ header {
 .navbar li {
 	list-style-type: none;
 	margin-bottom: 10px;
+	margin-left: 13px;
 }
 
 .container {
 	display:inline-block;
 	vertical-align: top;
-	margin-left: 100px;
-	width: calc(100% - 181px);
+	margin-left: 110px;
+	width: calc(100% - 191px);
 
 
 }
