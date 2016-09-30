@@ -49,12 +49,15 @@ a{
 .resume:hover {
     background-color: #3E4651;
     padding: 1px;
-    width: 190px;
+    width: 245px;
     box-shadow: 3px 3px 8px rgba(0,0,0,.4);
     margin: auto;
 		color: white;
     text-align: center;
+    transition: width 1s, color 2s;
+
 }
+
 
 .navbar {
     background-color: #3E4651;
