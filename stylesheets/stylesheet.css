@@ -20,6 +20,7 @@ body {
     margin-top: -2%;
     padding: 20px;
     vertical-align: top;
+		position: fixed;
 }
 
 .navbar li {
@@ -29,7 +30,7 @@ body {
 .container {
 	display:inline-block;
 	vertical-align: top;
-	margin-left: 5%;
+	margin-left: 100px;
 
 }
 
