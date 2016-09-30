@@ -74,8 +74,6 @@ a{
 		box-shadow: 3px 3px 8px rgba(0,0,0,.4);
 }
 
-
-
 .container {
     display: block;
     vertical-align: top;
@@ -100,7 +98,25 @@ section {
     text-align: center;
 }
 
+.likedin:hover {
+		background-color: #0077B5;
+		width: 50px;
+		height: 50px;
+		border-radius: 10px;
+		line-height: 1px;
+		text-align: center;
+}
+
 .soundcloud {
+    background-color: #ff7700;
+    width: 50px;
+    height: 50px;
+    border-radius: 10px;
+    line-height: 1px;
+    text-align: center;
+}
+
+.soundcloud:hover {
     background-color: #ff7700;
     width: 50px;
     height: 50px;
@@ -118,7 +134,25 @@ section {
 		text-align: center;
 }
 
+.facebook:hover {
+		background-color: #3b5998;
+		width: 50px;
+		height: 50px;
+		border-radius: 10px;
+		line-height: 1px;
+		text-align: center;
+}
+
 .twitter {
+		background-color: #00aced;
+		width: 50px;
+		height: 50px;
+		border-radius: 10px;
+		line-height: 1px;
+		text-align: center;
+}
+
+.twitter:hover {
 		background-color: #00aced;
 		width: 50px;
 		height: 50px;
