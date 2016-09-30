@@ -31,6 +31,8 @@ body {
 	display:inline-block;
 	vertical-align: top;
 	margin-left: 100px;
+	width: calc(100%-181px);
+
 
 }
 
@@ -54,7 +56,7 @@ section {
 }
 
 .banner img {
-    width: calc(100%-100px);
+    width: 100%;
     margin-left: 81px;
     margin-top: -9px;
 }
