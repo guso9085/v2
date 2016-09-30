@@ -13,15 +13,8 @@ body {
 }
 
 header {
-    background-image: url("/images/banner.png");
-    background-size: cover;
-    margin-left: -19px;
-    margin-top: -25px;
-    padding: 20px;
-    width: 110%;
-    background-position-y: -140px;
 		color: #2c3e50;
-		background-position-x: 190px;
+
 }
 
 .navbar {
