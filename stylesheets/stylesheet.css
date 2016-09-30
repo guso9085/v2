@@ -22,18 +22,16 @@ header h1 {
 }
 
 .navbar {
-    background-color: #2c3e50;
-		border-radius:10px;
+    background-color: #3E4651;
     padding: 20px;
-		position: fixed;
-		left : -50px;
-		border: 3px solid #7f8c8d;
+    position: fixed;
+    border: 3px solid #344146;
 }
 
 .navbar li {
 	list-style-type: none;
 	margin-bottom: 10px;
-	margin-left: 13px;
+	margin-left: -33px;
 }
 
 .container {
