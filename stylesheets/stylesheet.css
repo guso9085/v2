@@ -32,6 +32,17 @@ header h1 {
 		box-shadow: 3px 3px 8px rgba(0,0,0,.4);
 }
 
+.resume {
+		background-color: #3E4651;
+		padding: 10px;
+		width: 50px;
+		border: 8px solid #344146;
+		display: inline-block;
+		float:right;
+		top: 10px;
+		box-shadow: 3px 3px 8px rgba(0,0,0,.4);
+}
+
 .navbar {
     background-color: #3E4651;
     padding: 5px;
