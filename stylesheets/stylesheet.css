@@ -31,6 +31,16 @@ a{
 	color:#7f8c8d;
 }
 
+.projects {
+		color: #ecf0f1;
+		background-color: #3E4651;
+		margin-left: -8px;
+		margin-right: -8px;
+		box-shadow: 0px 4px 28px rgba(0,0,0,.4);
+		padding-bottom: 3px;
+
+}
+
 .portrait {
     background-color: #3E4651;
     padding: 10px;
@@ -50,7 +60,6 @@ a{
     margin: auto;
     text-align: center;
 		transition: width 1s, color 2s;
-		font-family: Raleway;
 }
 
 .resume:hover {
@@ -101,7 +110,7 @@ section {
 .madeby {
 	background-color: #3E4651;
 	padding: 1px;
-	width: 200px;
+	width: 207px;
 	box-shadow: 3px 3px 8px rgba(0,0,0,.4);
 	margin: auto;
 	bottom: 10px;
