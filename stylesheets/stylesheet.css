@@ -98,6 +98,17 @@ section {
 	font-family: Kreon;
 }
 
+.madeby {
+	background-color: #3E4651;
+	padding: 1px;
+	width: 200px;
+	box-shadow: 3px 3px 8px rgba(0,0,0,.4);
+	margin: auto;
+	bottom: 10px;
+	text-align: center;
+	font-family: Raleway;
+}
+
 .linkedin {
     background-color: #0077B5;
     width: 50px;
