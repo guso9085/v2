@@ -54,6 +54,12 @@ a{
 		box-shadow: 3px 3px 8px rgba(0,0,0,.4);
 }
 
+section p {
+	width: 400px;
+	margin: 20px auto;
+	text-align: center;
+}
+
 .Project1 {
     background-color: #3E4651;
     padding: 10px;
