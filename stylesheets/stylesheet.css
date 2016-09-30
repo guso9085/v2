@@ -97,7 +97,7 @@ section {
     border-radius: 10px;
     line-height: 1px;
     text-align: center;
-		transition: box-shadow 1s;
+		transition: box-shadow .5s;
 }
 
 .linkedin:hover {
@@ -108,7 +108,7 @@ section {
 		line-height: 1px;
 		text-align: center;
 		box-shadow: 0px 0px 8px white;
-		transition: box-shadow 1s;
+		transition: box-shadow .5s;
 }
 
 .soundcloud {
@@ -118,7 +118,7 @@ section {
     border-radius: 10px;
     line-height: 1px;
     text-align: center;
-		transition: box-shadow 1s;
+		transition: box-shadow .5s;
 }
 
 .soundcloud:hover {
@@ -129,7 +129,7 @@ section {
     line-height: 1px;
     text-align: center;
 		box-shadow: 0px 0px 8px white;
-		transition: box-shadow 1s;
+		transition: box-shadow .5s;
 }
 
 .facebook {
@@ -139,7 +139,7 @@ section {
 		border-radius: 10px;
 		line-height: 1px;
 		text-align: center;
-		transition: box-shadow 1s;
+		transition: box-shadow .5s;
 }
 
 .facebook:hover {
@@ -150,7 +150,7 @@ section {
 		line-height: 1px;
 		text-align: center;
 		box-shadow: 0px 0px 8px white;
-		transition: box-shadow 1s;
+		transition: box-shadow .5s;
 }
 
 .twitter {
@@ -160,7 +160,7 @@ section {
 		border-radius: 10px;
 		line-height: 1px;
 		text-align: center;
-		transition: box-shadow 1s;
+		transition: box-shadow .5s;
 }
 
 .twitter:hover {
@@ -171,7 +171,7 @@ section {
 		line-height: 1px;
 		text-align: center;
 		box-shadow: 0px 0px 8px white;
-		transition: box-shadow 1s;
+		transition: box-shadow .5s;
 }
 
 .fa.fa-linkedin{
