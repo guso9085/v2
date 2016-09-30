@@ -93,7 +93,7 @@ section p {
     box-shadow: 3px 3px 8px rgba(0,0,0,.4);
     margin: auto;
     text-align: center;
-		transition: width 1s, color 2s;
+		transition: width .5s, color 1s;
 }
 
 .resume:hover {
@@ -104,7 +104,7 @@ section p {
     margin: auto;
 		color: white;
     text-align: center;
-    transition: width 1s, color 2s;
+    transition: width .5s, color 1s;
 
 }
 
@@ -159,7 +159,7 @@ section {
     border-radius: 10px;
     line-height: 1px;
     text-align: center;
-		transition: box-shadow .5s, background-color .5s;
+		transition: box-shadow .2s, background-color .2s;
 }
 
 .linkedin:hover {
@@ -170,7 +170,7 @@ section {
 		line-height: 1px;
 		text-align: center;
 		box-shadow: 0px 0px 15px white;
-		transition: box-shadow .5s, background-color .5s;
+		transition: box-shadow .2s, background-color .2s;
 }
 
 .soundcloud {
@@ -180,7 +180,7 @@ section {
     border-radius: 10px;
     line-height: 1px;
     text-align: center;
-		transition: box-shadow .5s, background-color .5s;
+		transition: box-shadow .2s, background-color .2s;
 }
 
 .soundcloud:hover {
@@ -191,7 +191,7 @@ section {
     line-height: 1px;
     text-align: center;
 		box-shadow: 0px 0px 15px white;
-		transition: box-shadow .5s, background-color .5s;
+		transition: box-shadow .2s, background-color .2s;
 }
 
 .facebook {
@@ -201,7 +201,7 @@ section {
 		border-radius: 10px;
 		line-height: 1px;
 		text-align: center;
-		transition: box-shadow .5s, background-color .5s;
+		transition: box-shadow .2s, background-color .2s;
 }
 
 .facebook:hover {
@@ -212,7 +212,7 @@ section {
 		line-height: 1px;
 		text-align: center;
 		box-shadow: 0px 0px 15px white;
-		transition: box-shadow .5s, background-color .5s;
+		transition: box-shadow .2s, background-color .2s;
 }
 
 .twitter {
@@ -222,7 +222,7 @@ section {
 		border-radius: 10px;
 		line-height: 1px;
 		text-align: center;
-		transition: box-shadow .5s, background-color .5s;
+		transition: box-shadow .2s, background-color .2s;
 }
 
 .twitter:hover {
@@ -233,7 +233,7 @@ section {
 		line-height: 1px;
 		text-align: center;
 		box-shadow: 0px 0px 15px white;
-		transition: box-shadow .5s, background-color .5s;
+		transition: box-shadow .2s, background-color .2s;
 
 }
 
@@ -245,7 +245,7 @@ section {
 		line-height: 1px;
 		text-align: center;
 		transition: box-shadow .5s;
-		transition: box-shadow .5s, background-color .5s;
+		transition: box-shadow .2s, background-color .2s;
 }
 
 .github:hover {
@@ -256,7 +256,7 @@ section {
 		line-height: 1px;
 		text-align: center;
 		box-shadow: 0px 0px 15px white;
-		transition: box-shadow .5s, background-color .5s;
+		transition: box-shadow .2s, background-color .2s;
 }
 
 .steam {
@@ -267,7 +267,7 @@ section {
 		line-height: 1px;
 		text-align: center;
 		transition: box-shadow .5s;
-		transition: box-shadow .5s, background-color .5s;
+		transition: box-shadow .2s, background-color .2s;
 }
 
 .steam:hover {
@@ -278,7 +278,7 @@ section {
 		line-height: 1px;
 		text-align: center;
 		box-shadow: 0px 0px 15px white;
-		transition: box-shadow .5s, background-color .5s;
+		transition: box-shadow .2s, background-color .2s;
 }
 
 .fa.fa-linkedin{
