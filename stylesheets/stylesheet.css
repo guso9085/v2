@@ -41,6 +41,10 @@ header {
 
 }
 
+img {
+	width: 80%;
+}
+
 section {
 	color: #ecf0f1;
 }
