@@ -104,18 +104,18 @@ section {
     border-radius: 10px;
     line-height: 1px;
     text-align: center;
-		transition: box-shadow .5s;
+		transition: box-shadow .5s, background-color 1s;
 }
 
 .linkedin:hover {
-		background-color: #0077B5;
+		background-color: #8e44ad;
 		width: 50px;
 		height: 50px;
 		border-radius: 10px;
 		line-height: 1px;
 		text-align: center;
 		box-shadow: 0px 0px 8px white;
-		transition: box-shadow .5s;
+		transition: box-shadow .5s, background-color 1s;
 }
 
 .soundcloud {
@@ -125,18 +125,18 @@ section {
     border-radius: 10px;
     line-height: 1px;
     text-align: center;
-		transition: box-shadow .5s;
+		transition: box-shadow .5s, background-color 1s;
 }
 
 .soundcloud:hover {
-    background-color: #ff7700;
+    background-color: #8e44ad;
     width: 50px;
     height: 50px;
     border-radius: 10px;
     line-height: 1px;
     text-align: center;
 		box-shadow: 0px 0px 8px white;
-		transition: box-shadow .5s;
+		transition: box-shadow .5s, background-color 1s;
 }
 
 .facebook {
@@ -146,18 +146,18 @@ section {
 		border-radius: 10px;
 		line-height: 1px;
 		text-align: center;
-		transition: box-shadow .5s;
+		transition: box-shadow .5s, background-color 1s;
 }
 
 .facebook:hover {
-		background-color: #3b5998;
+		background-color: #8e44ad;
 		width: 50px;
 		height: 50px;
 		border-radius: 10px;
 		line-height: 1px;
 		text-align: center;
 		box-shadow: 0px 0px 8px white;
-		transition: box-shadow .5s;
+		transition: box-shadow .5s, background-color 1s;
 }
 
 .twitter {
@@ -167,18 +167,19 @@ section {
 		border-radius: 10px;
 		line-height: 1px;
 		text-align: center;
-		transition: box-shadow .5s;
+		transition: box-shadow .5s, background-color 1s;
 }
 
 .twitter:hover {
-		background-color: #00aced;
+		background-color: #8e44ad;
 		width: 50px;
 		height: 50px;
 		border-radius: 10px;
 		line-height: 1px;
 		text-align: center;
 		box-shadow: 0px 0px 8px white;
-		transition: box-shadow .5s;
+		transition: box-shadow .5s, background-color 1s;
+
 }
 
 .github {
@@ -189,17 +190,18 @@ section {
 		line-height: 1px;
 		text-align: center;
 		transition: box-shadow .5s;
+		transition: box-shadow .5s, background-color 1s;
 }
 
 .github:hover {
-		background-color: #00aced;
+		background-color: #8e44ad;
 		width: 50px;
 		height: 50px;
 		border-radius: 10px;
 		line-height: 1px;
 		text-align: center;
 		box-shadow: 0px 0px 8px white;
-		transition: box-shadow .5s;
+		transition: box-shadow .5s, background-color 1s;
 }
 
 .fa.fa-linkedin{
