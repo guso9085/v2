@@ -181,6 +181,27 @@ section {
 		transition: box-shadow .5s;
 }
 
+.github {
+		background-color: #000000;
+		width: 50px;
+		height: 50px;
+		border-radius: 10px;
+		line-height: 1px;
+		text-align: center;
+		transition: box-shadow .5s;
+}
+
+.github:hover {
+		background-color: #00aced;
+		width: 50px;
+		height: 50px;
+		border-radius: 10px;
+		line-height: 1px;
+		text-align: center;
+		box-shadow: 0px 0px 8px white;
+		transition: box-shadow .5s;
+}
+
 .fa.fa-linkedin{
 	color: #FFFFFF;
 	font-size: 50px;
@@ -197,6 +218,11 @@ section {
 }
 
 .fa.fa-twitter{
+	color: #FFFFFF;
+	font-size: 50px;
+}
+
+.fa.fa-github{
 	color: #FFFFFF;
 	font-size: 50px;
 }
