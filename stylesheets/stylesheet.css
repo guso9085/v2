@@ -54,7 +54,7 @@ section {
 }
 
 .banner img {
-    width: 100%;
+    width: calc(100%-100px);
     margin-left: 81px;
     margin-top: -9px;
 }
