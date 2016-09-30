@@ -37,15 +37,18 @@ section {
 	color: #ecf0f1;
 }
 
-.linkedin{
-	background-color: #7f8c8d;
-	width: 50px;
-	height: 50px;
-	border: 2px solid black;
-	border-radius: 5px;
+.linkedin {
+    background-color: #7f8c8d;
+    width: 50px;
+    height: 50px;
+    border: 2px solid #7f8c8d;
+    border-radius: 10px;
+    line-height: 1px;
+    text-align: center;
 }
 
 #linkedin{
 	color: #ecf0f1;
 	font-size: 50px;
+
 }
