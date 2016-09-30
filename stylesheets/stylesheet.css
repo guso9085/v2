@@ -53,7 +53,18 @@ a{
 		box-shadow: 3px 3px 8px rgba(0,0,0,.4);
 }
 
-.project1 {
+.Project1 {
+    background-color: #3E4651;
+    padding: 10px;
+    width: 250px;
+    border: 8px solid #344146;
+    display: block;
+    margin: auto;
+		padding-bottom: 5px;
+		box-shadow: 3px 3px 8px rgba(0,0,0,.4);
+}
+
+.Project2 {
     background-color: #3E4651;
     padding: 10px;
     width: 250px;
