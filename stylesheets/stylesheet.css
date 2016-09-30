@@ -33,14 +33,12 @@ header h1 {
 }
 
 .resume {
-		background-color: #3E4651;
-		padding: 10px;
-		width: 50px;
-		border: 8px solid #344146;
-		display: inline-block;
-		float:right;
-		top: 10px;
-		box-shadow: 3px 3px 8px rgba(0,0,0,.4);
+    background-color: #3E4651;
+    padding: 1px;
+    width: 100px;
+    box-shadow: 3px 3px 8px rgba(0,0,0,.4);
+    margin: auto;
+    text-align: center;
 }
 
 .navbar {
