@@ -22,10 +22,12 @@ header h1 {
 }
 
 .portrait {
-		background-color: #3E4651;
-		padding: 5px;
-		position: fixed;
-		border: 4px solid #344146;
+    background-color: #3E4651;
+    padding: 20px;
+    position: fixed;
+    border: 4px solid #344146;
+    margin-left: 300px;
+    display: block;
 }
 
 .navbar {
@@ -51,7 +53,7 @@ header h1 {
 }
 
 .portrait img {
-	height: 60px;
+	height: 250px;
 }
 
 section {
