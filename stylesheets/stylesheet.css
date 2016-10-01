@@ -62,6 +62,18 @@ section p {
 	font-weight:bold;
 }
 
+#Project1{
+	display:inline-block;
+}
+
+#Project2{
+	display:inline-block;
+}
+
+#Project3{
+	display:inline-block;
+}
+
 .Project1 {
     background-color: #343d46;
     padding: 10px;
@@ -72,7 +84,6 @@ section p {
     margin: auto 10px;
 		padding-bottom: 5px;
 		box-shadow: 0px 4px 28px rgba(0,0,0,.4);
-		display: inline-block;
 }
 
 .Project2 {
@@ -85,7 +96,6 @@ section p {
     margin: auto 10px;
 		padding-bottom: 5px;
 		box-shadow: 0px 4px 28px rgba(0,0,0,.4);
-		display: inline-block;
 }
 
 .Project3 {
@@ -98,7 +108,6 @@ section p {
     margin: auto 10px;
 		padding-bottom: 5px;
 		box-shadow: 0px 4px 28px rgba(0,0,0,.4);
-		display: inline-block;
 }
 
 .PHeader {
