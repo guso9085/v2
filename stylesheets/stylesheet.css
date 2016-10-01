@@ -56,10 +56,10 @@ a{
 }
 
 section p {
-	width: 400px;
-	margin: 20px auto;
-	text-align: center;
-	font-weight:bold;
+    width: 100%;
+    margin: 20px auto;
+    text-align: center;
+    font-weight: bold;
 }
 
 #Project1{
@@ -180,16 +180,17 @@ section p {
 }
 
 section {
-	color: #FFFFFF;
-	font-family: Open Sans;
-	background-color: #343d46;
-	border: 8px solid #1abc9c;
-	margin-left: 30%;
-	margin-right: 30%;
-	margin-top: 17px;
-	margin-bottom: 17px;
-	box-shadow: 0px 6px 1px rgba(0,0,0,.4);
-	padding-bottom: 4px;
+    color: #FFFFFF;
+    font-family: Open Sans;
+    background-color: #343d46;
+    border: 8px solid #1abc9c;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 17px;
+    margin-bottom: 17px;
+    box-shadow: 0px 6px 1px rgba(0,0,0,.4);
+    padding-bottom: 4px;
+    padding: 5px;
 }
 
 .madeby {
