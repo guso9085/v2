@@ -101,6 +101,17 @@ section p {
 		display: inline-block;
 }
 
+.PHeader {
+    background-color: #343d46;
+    padding: 7px;
+    width: 100px;
+    box-shadow: 3px 3px 8px rgba(0,0,0,.4);
+    margin: 10px auto;
+    border: 4px solid #9b59b6;
+    text-align: center;
+    transition: width .5s, color 1s, border 1s;
+}
+
 .resume {
     background-color: #343d46;
     padding: 7px;
