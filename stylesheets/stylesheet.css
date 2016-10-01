@@ -318,6 +318,10 @@ section {
 		transition: box-shadow .2s, background-color .2s, color .2s;
 }
 
+header p {
+	
+}
+
 .steam {
 		background-color: #2980b9;
 		width: 50px;
