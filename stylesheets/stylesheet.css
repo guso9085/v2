@@ -171,9 +171,10 @@ section {
     width: 207px;
     box-shadow: 3px 3px 8px rgba(0,0,0,.4);
     border: 6px solid #d35400;
-    margin: auto;
+    margin: 50px auto;
     padding: 10px;
     text-align: center;
+    display: block;
 }
 
 .linkedin {
