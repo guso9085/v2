@@ -113,6 +113,10 @@ section p {
     transition: width .5s, color 1s, border 1s;
 }
 
+#copyright {
+	padding-bottom: 10px;
+}
+
 .resume:hover {
 		background-color: #343d46;
 		padding: 7px;
@@ -172,7 +176,7 @@ section {
     box-shadow: 3px 3px 8px rgba(0,0,0,.4);
     border: 6px solid #d35400;
     margin: 50px auto;
-    padding: 10px;
+    padding: 5px;
     text-align: center;
     display: block;
 }
