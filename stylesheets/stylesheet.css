@@ -216,8 +216,7 @@ section {
 }
 
 .linkedin:hover {
-		background-color: #FFFFFF;
-		color: #0077B5 !important;
+		background-color: #e74c3c;
 		width: 50px;
 		height: 50px;
 		border-radius: 10px;
@@ -241,8 +240,7 @@ section {
 }
 
 .soundcloud:hover {
-    background-color: #FFFFFF;
-		color: #ff7700 !important;
+    background-color: #e67e22;
     width: 50px;
     height: 50px;
     border-radius: 10px;
@@ -266,8 +264,7 @@ section {
 }
 
 .facebook:hover {
-		background-color: #FFFFFF;
-		color: #3b5998 !important;
+		background-color: #f1c40f;
 		width: 50px;
 		height: 50px;
 		border-radius: 10px;
@@ -280,7 +277,6 @@ section {
 
 .twitter {
 		background-color: #00aced;
-		color: #FFFFFF;
 		width: 50px;
 		height: 50px;
 		border-radius: 10px;
@@ -291,8 +287,7 @@ section {
 }
 
 .twitter:hover {
-		background-color: #FFFFFF;
-		color: #00aced !important;
+		background-color: #2ecc71;
 		width: 50px;
 		height: 50px;
 		border-radius: 10px;
@@ -306,7 +301,6 @@ section {
 
 .github {
 		background-color: #000000;
-		color: #FFFFFF;
 		width: 50px;
 		height: 50px;
 		border-radius: 10px;
@@ -318,8 +312,7 @@ section {
 }
 
 .github:hover {
-		background-color: #FFFFFF;
-		color: #000000 !important;
+		background-color: #3498db;
 		width: 50px;
 		height: 50px;
 		border-radius: 10px;
@@ -332,7 +325,6 @@ section {
 
 .steam {
 		background-color: #2980b9;
-		color: #FFFFFF;
 		width: 50px;
 		height: 50px;
 		border-radius: 10px;
@@ -344,8 +336,7 @@ section {
 }
 
 .steam:hover {
-		background-color: #FFFFFF;
-		color: #2980b9 !important;
+		background-color: #1abc9c;
 		width: 50px;
 		height: 50px;
 		border-radius: 10px;
@@ -357,26 +348,32 @@ section {
 }
 
 .fa.fa-linkedin{
+	color: #FFFFFF;
 	font-size: 50px;
 }
 
 .fa.fa-soundcloud{
+	color: #FFFFFF;
 	font-size: 35px;
 	padding-top: 8px;
 }
 
 .fa.fa-facebook{
+	color: #FFFFFF;
 	font-size: 50px;
 }
 
 .fa.fa-twitter{
+	color: #FFFFFF;
 	font-size: 50px;
 }
 
 .fa.fa-github-square{
+	color: #FFFFFF;
 	font-size: 52px;
 }
 
 .fa.fa-steam{
+	color: #FFFFFF;
 	font-size: 50px;
 }
