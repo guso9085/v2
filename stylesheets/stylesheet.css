@@ -34,15 +34,14 @@ a{
 }
 
 .projects {
-		color: #FFFFFF;
-		background-color: #343d46;
-		margin-left: -8px;
-		margin-right: -8px;
-		box-shadow: 0px 4px 28px rgba(0,0,0,.4);
-		padding-bottom: 3px;
-		margin-bottom: 15px;
-		border: 4px solid #e67e22;
-
+    color: #FFFFFF;
+    background-color: #343d46;
+    margin-left: -8px;
+    margin-right: -8px;
+    box-shadow: 0px 4px 28px rgba(0,0,0,.4);
+    padding-bottom: 16px;
+    margin-bottom: 15px;
+    border: 8px solid #e67e22;
 }
 
 .portrait {
@@ -148,6 +147,7 @@ section {
 	margin-left: -8px;
 	margin-right: -8px;
 	margin-top: 17px;
+	margin-bottom: 17px;
 	box-shadow: 0px 6px 1px rgba(0,0,0,.4);
 	padding-bottom: 4px;
 }
