@@ -22,7 +22,9 @@ header {
     padding-bottom: 4px;
 }
 
-
+a {
+	target: _blank;
+}
 
 header h1 {
 		font-size: 50px;
