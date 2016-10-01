@@ -6,6 +6,7 @@ html {
 
 body {
 	background-image: url("../stardust_@2X.png");
+	background-attachment:fixed;
 	color: #bdc3c7;
 	font-family: Raleway;
 	height: 100%;
