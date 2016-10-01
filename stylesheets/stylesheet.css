@@ -164,7 +164,6 @@ section p {
     list-style-type: none;
     margin-bottom: 10px;
     margin-left: -39px;
-		box-shadow: 3px 3px 8px rgba(0,0,0,.4);
 }
 
 .container {
@@ -212,6 +211,7 @@ section {
     line-height: 1px;
     text-align: center;
 		transition: box-shadow .2s, background-color .2s;
+		box-shadow: 3px 3px 8px rgba(0,0,0,.4);
 }
 
 .linkedin:hover {
@@ -223,6 +223,7 @@ section {
 		text-align: center;
 		box-shadow: 0px 0px 15px white;
 		transition: box-shadow .2s, background-color .2s;
+		box-shadow: 3px 3px 8px rgba(0,0,0,.4);
 }
 
 .soundcloud {
@@ -233,6 +234,7 @@ section {
     line-height: 1px;
     text-align: center;
 		transition: box-shadow .2s, background-color .2s;
+		box-shadow: 3px 3px 8px rgba(0,0,0,.4);
 }
 
 .soundcloud:hover {
@@ -244,6 +246,7 @@ section {
     text-align: center;
 		box-shadow: 0px 0px 15px white;
 		transition: box-shadow .2s, background-color .2s;
+		box-shadow: 3px 3px 8px rgba(0,0,0,.4);
 }
 
 .facebook {
@@ -254,6 +257,7 @@ section {
 		line-height: 1px;
 		text-align: center;
 		transition: box-shadow .2s, background-color .2s;
+		box-shadow: 3px 3px 8px rgba(0,0,0,.4);
 }
 
 .facebook:hover {
@@ -265,6 +269,7 @@ section {
 		text-align: center;
 		box-shadow: 0px 0px 15px white;
 		transition: box-shadow .2s, background-color .2s;
+		box-shadow: 3px 3px 8px rgba(0,0,0,.4);
 }
 
 .twitter {
@@ -275,6 +280,7 @@ section {
 		line-height: 1px;
 		text-align: center;
 		transition: box-shadow .2s, background-color .2s;
+		box-shadow: 3px 3px 8px rgba(0,0,0,.4);
 }
 
 .twitter:hover {
@@ -286,6 +292,7 @@ section {
 		text-align: center;
 		box-shadow: 0px 0px 15px white;
 		transition: box-shadow .2s, background-color .2s;
+		box-shadow: 3px 3px 8px rgba(0,0,0,.4);
 
 }
 
@@ -298,6 +305,7 @@ section {
 		text-align: center;
 		transition: box-shadow .5s;
 		transition: box-shadow .2s, background-color .2s;
+		box-shadow: 3px 3px 8px rgba(0,0,0,.4);
 }
 
 .github:hover {
@@ -309,6 +317,7 @@ section {
 		text-align: center;
 		box-shadow: 0px 0px 15px white;
 		transition: box-shadow .2s, background-color .2s;
+		box-shadow: 3px 3px 8px rgba(0,0,0,.4);
 }
 
 .steam {
@@ -320,6 +329,7 @@ section {
 		text-align: center;
 		transition: box-shadow .5s;
 		transition: box-shadow .2s, background-color .2s;
+		box-shadow: 3px 3px 8px rgba(0,0,0,.4);
 }
 
 .steam:hover {
@@ -331,6 +341,7 @@ section {
 		text-align: center;
 		box-shadow: 0px 0px 15px white;
 		transition: box-shadow .2s, background-color .2s;
+		box-shadow: 3px 3px 8px rgba(0,0,0,.4);
 }
 
 .fa.fa-linkedin{
