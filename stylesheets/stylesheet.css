@@ -224,7 +224,6 @@ section {
 		text-align: center;
 		box-shadow: 0px 0px 15px white;
 		transition: box-shadow .2s, background-color .2s, color .2s;
-		box-shadow: 3px 3px 8px rgba(0,0,0,.4);
 }
 
 .soundcloud {
@@ -248,7 +247,6 @@ section {
     text-align: center;
 		box-shadow: 0px 0px 15px white;
 		transition: box-shadow .2s, background-color .2s, color .2s;
-		box-shadow: 3px 3px 8px rgba(0,0,0,.4);
 }
 
 .facebook {
@@ -272,7 +270,6 @@ section {
 		text-align: center;
 		box-shadow: 0px 0px 15px white;
 		transition: box-shadow .2s, background-color .2s, color .2s;
-		box-shadow: 3px 3px 8px rgba(0,0,0,.4);
 }
 
 .twitter {
@@ -295,7 +292,6 @@ section {
 		text-align: center;
 		box-shadow: 0px 0px 15px white;
 		transition: box-shadow .2s, background-color .2s, color .2s;
-		box-shadow: 3px 3px 8px rgba(0,0,0,.4);
 
 }
 
@@ -320,7 +316,6 @@ section {
 		text-align: center;
 		box-shadow: 0px 0px 15px white;
 		transition: box-shadow .2s, background-color .2s, color .2s;
-		box-shadow: 3px 3px 8px rgba(0,0,0,.4);
 }
 
 .steam {
@@ -344,7 +339,6 @@ section {
 		text-align: center;
 		box-shadow: 0px 0px 15px white;
 		transition: box-shadow .2s, background-color .2s, color .2s;
-		box-shadow: 3px 3px 8px rgba(0,0,0,.4);
 }
 
 .fa.fa-linkedin{
