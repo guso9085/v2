@@ -91,6 +91,7 @@ section p {
 .Project1 img {
 		height: 100%;
 		text-align: center;
+		display: inline-block;
 }
 
 .Project2 {
