@@ -86,6 +86,7 @@ section p {
     margin: auto 10px;
 		padding-bottom: 5px;
 		box-shadow: 0px 4px 28px rgba(0,0,0,.4);
+		position: relative;
 }
 
 #PImg1 {
@@ -94,6 +95,7 @@ section p {
     margin: -2px auto 5px auto;
     display: inherit;
     transition: opacity .3s;
+		position: absolute;
 }
 
 #PImg1:hover {
@@ -106,7 +108,7 @@ section p {
 }
 
 #PText1 {
-		
+
 
 }
 
