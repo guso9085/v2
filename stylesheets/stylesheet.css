@@ -88,14 +88,14 @@ section p {
 		box-shadow: 0px 4px 28px rgba(0,0,0,.4);
 }
 
-.Project1 a img {
+#PImg1 {
 		height: 100%;
 		text-align: center;
 		display: inherit;
 		transition: box-shadow .4s;
 }
 
-.Project1 a img:hover {
+#PImg1:hover {
 		height: 100%;
 		text-align: center;
 		display: inherit;
