@@ -93,16 +93,16 @@ section p {
     text-align: center;
     margin: -2px auto 5px auto;
     display: inherit;
-    transition: opacity .3s;
+    transition: display .3s;
 }
 
 #PImg1:hover {
 		height: 100%;
 		margin: -2px auto 5px auto;
 		text-align: center;
-		display: inherit;
+		display: none;
 		opacity: 0.5;
-		transition: opacity .3s;
+		transition: display .3s;
 }
 
 #PText1 {
