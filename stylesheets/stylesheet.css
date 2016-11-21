@@ -103,7 +103,7 @@ section p {
 	height: 94%;
 	text-align: center;
 	margin: 6px 0px 2px 9px;
-	opacity: 0;
+	opacity: .2;
 	display: inherit;
 	transition: opacity .6s;
 	position: absolute;
