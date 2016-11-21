@@ -24,7 +24,7 @@ body {
 
 header {
     color: #FFFFFF;
-    background-color: rgba(52,61,70, .8);
+    background-color: rgba(52,61,70, .6);
     border: 8px solid #e74c3c;
     margin-left: 30%;
     margin-right: 30%;
@@ -45,7 +45,7 @@ a{
 
 .projects {
     color: #FFFFFF;
-    background-color: rgba(52,61,70, .8);
+    background-color: rgba(52,61,70, .6);
     margin-left: -8px;
     margin-right: -8px;
     box-shadow: 0px 4px 28px rgba(0,0,0,.4);
@@ -57,7 +57,7 @@ a{
 }
 
 .portrait {
-    background-color:	rgba(52,61,70, .8);
+    background-color:	rgba(52,61,70, .6);
     padding: 10px;
     width: 250px;
     border: 8px solid #2980b9;
@@ -87,7 +87,7 @@ section p {
 }
 
 .Project1 {
-    background-color: rgba(52,61,70, .8);
+    background-color: rgba(52,61,70, .6);
     padding: 10px;
     width: 200px;
 		height: 200px;
@@ -144,7 +144,7 @@ section p {
 }
 
 .Project2 {
-    background-color: rgba(52,61,70, .8);
+    background-color: rgba(52,61,70, .6);
     padding: 10px;
     width: 200px;
 		height: 200px;
@@ -157,7 +157,7 @@ section p {
 }
 
 .Project3 {
-    background-color: rgba(52,61,70, .8);
+    background-color: rgba(52,61,70, .6);
     padding: 10px;
     width: 200px;
 		height: 200px;
@@ -169,7 +169,7 @@ section p {
 }
 
 .PHeader {
-    background-color: rgba(52,61,70, .8);
+    background-color: rgba(52,61,70, .6);
     padding: 2px 13px 2px 13px;
     width: 199px;
     color: #bdc3c7;
@@ -182,7 +182,7 @@ section p {
 }
 
 .PHeader:hover {
-		background-color: rgba(52,61,70, .8);
+		background-color: rgba(52,61,70, .6);
 		padding: 2px 13px 2px 13px;
 		width: 199px;
 		box-shadow: 3px 3px 8px rgba(0,0,0,.4);
@@ -196,7 +196,7 @@ section p {
 }
 
 .resume {
-    background-color: rgba(52,61,70, .8);
+    background-color: rgba(52,61,70, .6);
     padding: 7px;
     width: 370px;
     box-shadow: 3px 3px 8px rgba(0,0,0,.4);
@@ -213,7 +213,7 @@ section p {
 }
 
 .resume:hover {
-		background-color: rgba(52,61,70, .8);
+		background-color: rgba(52,61,70, .6);
 		padding: 7px;
 		width: 100px;
 		box-shadow: 3px 3px 8px rgba(0,0,0,.4);
@@ -226,7 +226,7 @@ section p {
 
 
 .navbar {
-		background-color: rgba(44,62,80,.8);
+		background-color: rgba(44,62,80,.6);
     padding: 5px;
     position: fixed;
 		top: 10px;
@@ -253,7 +253,7 @@ section p {
 section {
     color: #FFFFFF;
     font-family: Open Sans;
-    background-color: rgba(52,61,70, .8);
+    background-color: rgba(52,61,70, .6);
     border: 8px solid #1abc9c;
     margin-left: 30%;
     margin-right: 30%;
@@ -265,7 +265,7 @@ section {
 }
 
 .madeby {
-    background-color: rgba(52,61,70, .8);
+    background-color: rgba(52,61,70, .6);
     width: 207px;
     box-shadow: 3px 3px 8px rgba(0,0,0,.4);
     border: 6px solid #d35400;
