@@ -99,7 +99,7 @@ section p {
     top: 0;
     left: 0;
 }
-#PImg1:hover {
+.PImg1:hover {
 	height: 94%;
 	text-align: center;
 	margin: 6px 0px 2px 9px;
