@@ -7,7 +7,7 @@ html {
 
 
 body {
-	color: #bdc3c7;
+	color: #FFFFFF;
 	font-family: Raleway;
 	height: 100%;
 }
@@ -421,5 +421,5 @@ header p {
 }*/
 
 .project {
-	vertical-align: bottom;	
+	vertical-align: bottom;
 }
