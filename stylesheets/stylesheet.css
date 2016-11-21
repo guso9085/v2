@@ -88,6 +88,11 @@ section p {
 		box-shadow: 0px 4px 28px rgba(0,0,0,.4);
 }
 
+.Project1 img {
+		height: 100%;
+		text-align: center;
+}
+
 .Project2 {
     background-color: #343d46;
     padding: 10px;
