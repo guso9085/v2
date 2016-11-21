@@ -89,7 +89,7 @@ section p {
 		position: relative;
 }
 
-#PImg1 {
+.PImg1 {
     height: 94%;
     text-align: center;
     margin: 6px 0px 2px 9px;
