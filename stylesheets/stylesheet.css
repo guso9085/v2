@@ -182,7 +182,7 @@ section p {
 }
 
 .PHeader:hover {
-		background-color: #343d46;
+		background-color: rgba(52,61,70, .8;
 		padding: 2px 13px 2px 13px;
 		width: 199px;
 		box-shadow: 3px 3px 8px rgba(0,0,0,.4);
@@ -213,7 +213,7 @@ section p {
 }
 
 .resume:hover {
-		background-color: #343d46;
+		background-color: rgba(52,61,70, .8);
 		padding: 7px;
 		width: 100px;
 		box-shadow: 3px 3px 8px rgba(0,0,0,.4);
