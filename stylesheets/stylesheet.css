@@ -142,9 +142,9 @@ section p {
 
 .PHeader {
     background-color: #343d46;
-    padding: 13px;
+    padding: 2px 13px 2px 13px;
     width: 199px;
-		color: #bdc3c7;
+    color: #bdc3c7;
     box-shadow: 3px 3px 8px rgba(0,0,0,.4);
     margin: 10px auto;
     border: 4px solid #bdc3c7;
@@ -155,7 +155,7 @@ section p {
 
 .PHeader:hover {
 		background-color: #343d46;
-		padding: 13px;
+		padding: 2px 13px 2px 13px;
 		width: 199px;
 		box-shadow: 3px 3px 8px rgba(0,0,0,.4);
 		margin: 10px auto;
@@ -413,7 +413,7 @@ header p {
 .fafa-external-link{
 	color: #bdc3c7;
 	font-size: 30px;
-	
+
 }
 
 .fa.fa-github-square{
