@@ -89,18 +89,20 @@ section p {
 }
 
 #PImg1 {
-		height: 100%;
-		text-align: center;
-		display: inherit;
-		transition: box-shadow .4s;
+    height: 100%;
+    text-align: center;
+    margin: -2px auto 5px auto;
+    display: inherit;
+    transition: box-shadow .3s;
 }
 
 #PImg1:hover {
 		height: 100%;
+		margin: -2px auto 5px auto;
 		text-align: center;
 		display: inherit;
-		transition: box-shadow .4s;
-		box-shadow: 0px 4px 28px rgba(255,255,255,.4);
+		transition: box-shadow .3s;
+		box-shadow: 0px 0px 80px rgba(241,196,15,.9);
 }
 
 .Project2 {
