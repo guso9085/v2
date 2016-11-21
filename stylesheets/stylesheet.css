@@ -92,14 +92,15 @@ section p {
 		height: 100%;
 		text-align: center;
 		display: inherit;
-		transition: height .4s;
+		transition: box-shadow .4s;
 }
 
 .Project1 img:hover {
-		height: 103%;
+		height: 100%;
 		text-align: center;
 		display: inherit;
-		transition: height .4s;
+		transition: box-shadow .4s;
+		box-shadow: 0px 4px 28px rgba(255,255,255,.4);
 }
 
 .Project2 {
