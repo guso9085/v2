@@ -89,7 +89,7 @@ section p {
 		position: relative;
 }
 
-.PImg1 {
+#PImg1 {
     height: 94%;
     text-align: center;
     margin: 6px 0px 2px 9px;
@@ -99,16 +99,38 @@ section p {
     top: 0;
     left: 0;
 }
-.PImg1:hover {
-	height: 94%;
-	text-align: center;
-	margin: 6px 0px 2px 9px;
-	opacity: .2;
-	display: inherit;
-	transition: opacity .6s;
-	position: absolute;
-	top: 0;
-	left: 0;
+#PImg1:hover {
+		height: 94%;
+		text-align: center;
+		margin: 6px 0px 2px 9px;
+		opacity: .2;
+		display: inherit;
+		transition: opacity .6s;
+		position: absolute;
+		top: 0;
+		left: 0;
+}
+
+#PImg2 {
+    height: 94%;
+    text-align: center;
+    margin: 6px 0px 2px 9px;
+    display: inherit;
+    transition: opacity .6s;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+#PImg2:hover {
+		height: 94%;
+		text-align: center;
+		margin: 6px 0px 2px 9px;
+		opacity: .2;
+		display: inherit;
+		transition: opacity .6s;
+		position: absolute;
+		top: 0;
+		left: 0;
 }
 
 #PText1 {
