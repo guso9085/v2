@@ -410,6 +410,11 @@ header p {
 	font-size: 50px;
 }
 
+.fafa-external-link{
+	color: #bdc3c7;
+	font-size: 30px;
+}
+
 .fa.fa-github-square{
 	color: #FFFFFF;
 	font-size: 52px;
