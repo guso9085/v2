@@ -187,8 +187,8 @@ section p {
 		width: 199px;
 		box-shadow: 3px 3px 8px rgba(0,0,0,.4);
 		margin: 10px auto;
-		border: 4px solid #e74c3c;
-		color: linear-gradient(red,yellow);
+		border: 4px solid #ff0097;
+		color: #ff0097;
 		text-align: center;
 		transition: color .5s, border .5s;
 		display: inline-block;
