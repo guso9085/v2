@@ -187,7 +187,7 @@ section p {
 		width: 199px;
 		box-shadow: 3px 3px 8px rgba(0,0,0,.4);
 		margin: 10px auto;
-		border: 4px solid #e74c3c;
+		border: 4px solid linear-gradient(#e74c3c,#000000);
 		color: #e74c3c;
 		text-align: center;
 		transition: color .5s, border .5s;
