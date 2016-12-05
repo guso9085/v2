@@ -122,6 +122,7 @@ section p {
     margin: auto 10px;
 		padding-bottom: 5px;
 		box-shadow: 0px 4px 28px rgba(0,0,0,.4);
+		position: relative;
 }
 
 #PImg1 {
@@ -157,6 +158,28 @@ section p {
     left: 0;
 }
 #PImg2:hover {
+		height: 94%;
+		text-align: center;
+		margin: 6px 0px 2px 9px;
+		opacity: .1;
+		display: inherit;
+		transition: opacity .6s;
+		position: absolute;
+		top: 0;
+		left: 0;
+}
+
+#PImg3 {
+    height: 94%;
+    text-align: center;
+    margin: 6px 0px 2px 9px;
+    display: inherit;
+    transition: opacity .6s;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+#PImg3:hover {
 		height: 94%;
 		text-align: center;
 		margin: 6px 0px 2px 9px;
