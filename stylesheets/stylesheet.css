@@ -125,7 +125,7 @@ section p {
 		position: relative;
 }
 
-#PImg1 {
+.PImg {
     height: 94%;
     text-align: center;
     margin: 6px 0px 2px 9px;
@@ -135,7 +135,7 @@ section p {
     top: 0;
     left: 0;
 }
-#PImg1:hover {
+.PImg:hover {
 		height: 94%;
 		text-align: center;
 		margin: 6px 0px 2px 9px;
@@ -147,7 +147,7 @@ section p {
 		left: 0;
 }
 
-#PImg2 {
+/*#PImg2 {
     height: 94%;
     text-align: center;
     margin: 6px 0px 2px 9px;
@@ -190,7 +190,7 @@ section p {
 		top: 0;
 		left: 0;
 }
-
+*/
 .PHeader {
     background-color: rgba(52,61,70, .6);
     padding: 2px 13px 2px 13px;
