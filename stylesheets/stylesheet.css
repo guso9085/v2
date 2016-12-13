@@ -25,7 +25,7 @@ body {
 header {
     color: #FFFFFF;
     background-color: rgba(52,61,70, .6);
-    border: 8px solid #e74c3c;
+    border: 8px solid #ecf0f1;
     margin-left: 30%;
     margin-right: 30%;
     margin-top: 17px;
@@ -47,7 +47,7 @@ a{
     background-color:	rgba(52,61,70, .6);
     padding: 10px;
     width: 250px;
-    border: 8px solid #2980b9;
+    border: 8px solid #ecf0f1;
     display: block;
     margin: auto;
 		padding-bottom: 5px;
@@ -73,8 +73,8 @@ section p {
     padding-bottom: 6px;
     padding-top: 6px;
     margin-bottom: 15px;
-    border-top: 8px solid #e67e22;
-		border-bottom: 8px solid #e67e22;
+    border-top: 8px solid #ecf0f1;
+		border-bottom: 8px solid #ecf0f1;
 }
 
 
@@ -95,7 +95,7 @@ section p {
     padding: 10px;
     width: 200px;
 		height: 200px;
-    border: 8px solid #f1c40f;
+    border: 8px solid #ecf0f1;
     display: block;
     margin: auto 10px;
 		padding-bottom: 5px;
@@ -108,7 +108,7 @@ section p {
     padding: 10px;
     width: 200px;
 		height: 200px;
-    border: 8px solid #3498db;
+    border: 8px solid #ecf0f1;
     display: block;
     margin: auto 10px;
 		padding-bottom: 5px;
@@ -121,7 +121,7 @@ section p {
     padding: 10px;
     width: 200px;
 		height: 200px;
-    border: 8px solid #9b59b6;
+    border: 8px solid #ecf0f1;
     display: block;
     margin: auto 10px;
 		padding-bottom: 5px;
@@ -189,7 +189,7 @@ section p {
     width: 370px;
     box-shadow: 3px 3px 8px rgba(0,0,0,.4);
     margin: 10px auto;
-    border: 4px solid #9b59b6;
+    border: 4px solid #ecf0f1;
     text-align: center;
     transition: width 1s, color 1s, border 1s;
 }
@@ -242,7 +242,7 @@ section {
     color: #FFFFFF;
     font-family: Open Sans;
     background-color: rgba(52,61,70, .6);
-    border: 8px solid #1abc9c;
+    border: 8px solid #ecf0f1;
     margin-left: 30%;
     margin-right: 30%;
     margin-top: 17px;
@@ -256,7 +256,7 @@ section {
     background-color: rgba(52,61,70, .6);
     width: 207px;
     box-shadow: 3px 3px 8px rgba(0,0,0,.4);
-    border: 6px solid #d35400;
+    border: 6px solid #ecf0f1;
     margin: 20px auto;
     padding: 10px;
     text-align: center;
