@@ -7,20 +7,27 @@ html {
 }
 
 * {
-  z-index: 5;
+  	z-index: 5;
+}
+
+.centeralign {
+		margin: 0px auto;
+		width: 50%;
+		height: 100%;
+		background-color: BLACK;
 }
 
 #particles-js {
-  z-index: -1;
-  position: fixed;
-  width: 100%;
-  height: 100%;
+  	z-index: -1;
+  	position: fixed;
+  	width: 100%;
+  	height: 100%;
 }
 
 body {
-	color: #FFFFFF;
-	font-family: Raleway;
-	height: 100%;
+		color: #FFFFFF;
+		font-family: Raleway;
+		height: 100%;
 }
 
 header {
@@ -39,9 +46,9 @@ header h1 {
     font-size: 50px;
 }
 
-a{
-	text-decoration: none;
-	color:#7f8c8d;
+a {
+		text-decoration: none;
+		color:#7f8c8d;
 }
 
 .portrait {
@@ -82,15 +89,15 @@ section p {
 
 
 #Project1{
-	display:inline-block;
+		display:inline-block;
 }
 
 #Project2{
-	display:inline-block;
+		display:inline-block;
 }
 
 #Project3{
-	display:inline-block;
+		display:inline-block;
 }
 
 .Project1 {
@@ -236,8 +243,8 @@ section p {
 }
 
 .portrait img {
-	height: 250px;
-	box-shadow: 4px 4px 20px rgba(0,0,0,.4);
+		height: 250px;
+		box-shadow: 4px 4px 20px rgba(0,0,0,.4);
 }
 
 section {
@@ -283,56 +290,56 @@ header p {
 }
 
 .project {
-	vertical-align: bottom;
+		vertical-align: bottom;
 }
 
 .icon-social-twitter {
-	opacity: 1;
-	transition: opacity .5s;
+		opacity: 1;
+		transition: opacity .5s;
 }
 
 
 .icon-social-twitter:hover {
-	opacity: .5;
-	transition: opacity .3s;
+		opacity: .5;
+		transition: opacity .3s;
 }
 
 .icon-social-facebook {
-	opacity: 1;
-	transition: opacity .5s;
+		opacity: 1;
+		transition: opacity .5s;
 }
 
 .icon-social-facebook:hover {
-	opacity: .5;
-	transition: opacity .3s;
+		opacity: .5;
+		transition: opacity .3s;
 }
 
 .icon-social-linkedin {
-	opacity: 1;
-	transition: opacity .5s;
+		opacity: 1;
+		transition: opacity .5s;
 }
 
 .icon-social-linkedin:hover {
-	opacity: .5;
-	transition: opacity .3s;
+		opacity: .5;
+		transition: opacity .3s;
 }
 
 .icon-social-soundcloud {
-	opacity: 1;
-	transition: opacity .5s;
+		opacity: 1;
+		transition: opacity .5s;
 }
 
 .icon-social-soundcloud:hover {
-	opacity: .5;
-	transition: opacity .3s;
+		opacity: .5;
+		transition: opacity .3s;
 }
 
 .icon-social-github {
-	opacity: 1;
-	transition: opacity .5s;
+		opacity: 1;
+		transition: opacity .5s;
 }
 
 .icon-social-github:hover {
-	opacity: .5;
-	transition: opacity .3s;
+		opacity: .5;
+		transition: opacity .3s;
 }
