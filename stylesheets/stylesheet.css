@@ -283,3 +283,24 @@ header p {
 .project {
 	vertical-align: bottom;
 }
+
+.icon-social-twitter {
+
+}
+
+.icon-social-facebook {
+
+}
+
+.icon-social-linkedin {
+
+}
+
+.icon-social-soundcloud {
+
+}
+
+.icon-social-github:hover {
+	opacity: .6
+
+}
