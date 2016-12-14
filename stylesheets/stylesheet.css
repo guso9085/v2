@@ -292,7 +292,7 @@ header p {
 
 .icon-social-twitter:hover {
 	opacity: .5;
-	transition: opacity .5s;
+	transition: opacity .3s;
 }
 
 .icon-social-facebook {
@@ -302,7 +302,7 @@ header p {
 
 .icon-social-facebook:hover {
 	opacity: .5;
-	transition: opacity .5s;
+	transition: opacity .3s;
 }
 
 .icon-social-linkedin {
@@ -312,7 +312,7 @@ header p {
 
 .icon-social-linkedin:hover {
 	opacity: .5;
-	transition: opacity .5s;
+	transition: opacity .3s;
 }
 
 .icon-social-soundcloud {
@@ -322,7 +322,7 @@ header p {
 
 .icon-social-soundcloud:hover {
 	opacity: .5;
-	transition: opacity .5s;
+	transition: opacity .3s;
 }
 
 .icon-social-github {
@@ -332,5 +332,5 @@ header p {
 
 .icon-social-github:hover {
 	opacity: .5;
-	transition: opacity .5s;
+	transition: opacity .3s;
 }
