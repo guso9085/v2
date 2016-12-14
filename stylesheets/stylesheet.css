@@ -264,19 +264,18 @@ section {
     display: block;
 }
 
-.linkedin {
-    background-color: #0077B5;
+.logos {
+    background-color: rgba(52,61,70, .6);
 		color: #FFFFFF;
     width: 50px;
     height: 50px;
     border-radius: 10px;
     line-height: 1px;
     text-align: center;
-		transition: box-shadow .2s, background-color .2s, color .2s;
 		box-shadow: 3px 3px 8px rgba(0,0,0,.4);
 }
 
-.linkedin:hover {
+/*.linkedin:hover {
 		background-color: #c0392b;
 		width: 50px;
 		height: 50px;
@@ -378,33 +377,11 @@ section {
 		box-shadow: 0px 0px 15px white;
 		transition: box-shadow .2s, background-color .2s, color .2s;
 }
+*/
 
 header p {
     padding-top: 0px;
 }
-
-/*.steam {
-		background-color: #2980b9;
-		width: 50px;
-		height: 50px;
-		border-radius: 10px;
-		line-height: 1px;
-		text-align: center;
-		transition: box-shadow .5s;
-		transition: box-shadow .2s, background-color .2s, color .2s;
-		box-shadow: 3px 3px 8px rgba(0,0,0,.4);
-}
-
-.steam:hover {
-		background-color: #8e44ad;
-		width: 50px;
-		height: 50px;
-		border-radius: 10px;
-		line-height: 1px;
-		text-align: center;
-		box-shadow: 0px 0px 15px white;
-		transition: box-shadow .2s, background-color .2s, color .2s;
-}*/
 
 .fa.fa-linkedin{
 	color: #FFFFFF;
