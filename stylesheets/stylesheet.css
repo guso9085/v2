@@ -284,23 +284,23 @@ header p {
 	vertical-align: bottom;
 }
 
-.icon-social-twitter {
-
+.icon-social-twitter:hover {
+	transition: opacity: .6
 }
 
-.icon-social-facebook {
-
+.icon-social-facebook:hover {
+	transition: opacity: .6
 }
 
-.icon-social-linkedin {
-
+.icon-social-linkedin:hover {
+	transition: opacity: .6
 }
 
-.icon-social-soundcloud {
-
+.icon-social-soundcloud:hover {
+	transition: opacity: .6
 }
 
 .icon-social-github:hover {
-	opacity: .6
+	transition: opacity: .6
 
 }
