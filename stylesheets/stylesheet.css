@@ -215,11 +215,9 @@ section p {
 
 
 .navbar {
-		/*background-color: rgba(44,62,80,.6);*/
     padding: 5px;
     position: fixed;
 		top: 10px;
-		/*box-shadow: 3px 3px 8px rgba(0,0,0,.4);*/
 }
 .navbar li {
     list-style-type: none;
