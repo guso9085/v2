@@ -25,7 +25,7 @@ body {
 header {
     color: #FFFFFF;
     background-color: rgba(52,61,70, .6);
-    border: 8px solid #ecf0f1;
+    /*border: 8px solid #ecf0f1;*/
     margin-left: 30%;
     margin-right: 30%;
     margin-top: 17px;
@@ -47,7 +47,7 @@ a{
     background-color:	rgba(52,61,70, .6);
     padding: 10px;
     width: 250px;
-    border: 8px solid #ecf0f1;
+    /*border: 8px solid #ecf0f1;*/
     display: block;
     margin: auto;
 		padding-bottom: 5px;
@@ -73,8 +73,8 @@ section p {
     padding-bottom: 6px;
     padding-top: 6px;
     margin-bottom: 15px;
-    border-top: 8px solid #ecf0f1;
-		border-bottom: 8px solid #ecf0f1;
+    /*border-top: 8px solid #ecf0f1;
+		border-bottom: 8px solid #ecf0f1;*/
 }
 
 
@@ -95,7 +95,7 @@ section p {
     padding: 10px;
     width: 200px;
 		height: 200px;
-    border: 8px solid #ecf0f1;
+  /*  border: 8px solid #ecf0f1;*/
     display: block;
     margin: auto 10px;
 		padding-bottom: 5px;
@@ -108,7 +108,7 @@ section p {
     padding: 10px;
     width: 200px;
 		height: 200px;
-    border: 8px solid #ecf0f1;
+    /*border: 8px solid #ecf0f1;*/
     display: block;
     margin: auto 10px;
 		padding-bottom: 5px;
@@ -121,7 +121,7 @@ section p {
     padding: 10px;
     width: 200px;
 		height: 200px;
-    border: 8px solid #ecf0f1;
+    /*border: 8px solid #ecf0f1;*/
     display: block;
     margin: auto 10px;
 		padding-bottom: 5px;
@@ -155,25 +155,25 @@ section p {
     background-color: rgba(52,61,70, .6);
     padding: 2px 13px 2px 13px;
     width: 199px;
-    color: #bdc3c7;
+    color: #FFFFFF;
     box-shadow: 3px 3px 8px rgba(0,0,0,.4);
     margin: 10px auto;
-    border: 4px solid #bdc3c7;
+    /*border: 4px solid #bdc3c7;*/
     text-align: center;
     transition: color .5s, border .5s;
     display: inline-block;
 }
 
 .PHeader:hover {
-		background-color: rgba(52,61,70, .6);
+		background-color: rgba(52,61,70, .3);
 		padding: 2px 13px 2px 13px;
 		width: 199px;
 		box-shadow: 3px 3px 8px rgba(0,0,0,.4);
 		margin: 10px auto;
-		border: 4px solid #99b433;
-		color: #99b433;
+		/*border: 4px solid #99b433;*/
+		/*color: #99b433;*/
 		text-align: center;
-		transition: color .5s, border .5s;
+		transition: background-color:
 		display: inline-block;
 
 }
@@ -189,7 +189,7 @@ section p {
     width: 370px;
     box-shadow: 3px 3px 8px rgba(0,0,0,.4);
     margin: 10px auto;
-    border: 4px solid #ecf0f1;
+    /*border: 4px solid #ecf0f1;*/
     text-align: center;
     transition: width 1s, color 1s, border 1s;
 }
@@ -201,14 +201,14 @@ section p {
 }
 
 .resume:hover {
-		background-color: rgba(52,61,70, .6);
+		background-color: rgba(52,61,70, .3);
 		padding: 7px;
 		width: 263px;
 		box-shadow: 3px 3px 8px rgba(0,0,0,.4);
 		margin: 10px auto;
-		border: 4px solid #2ecc71;
+		/*border: 4px solid #2ecc71;*/
 		text-align: center;
-		transition: width 1s, color 1s, border 1s;
+		transition: width 1s, background-color, border 1s;
 
 }
 
@@ -242,7 +242,7 @@ section {
     color: #FFFFFF;
     font-family: Open Sans;
     background-color: rgba(52,61,70, .6);
-    border: 8px solid #ecf0f1;
+    /*border: 8px solid #ecf0f1;*/
     margin-left: 30%;
     margin-right: 30%;
     margin-top: 17px;
@@ -256,7 +256,7 @@ section {
     background-color: rgba(52,61,70, .6);
     width: 207px;
     box-shadow: 3px 3px 8px rgba(0,0,0,.4);
-    border: 6px solid #ecf0f1;
+    /*border: 6px solid #ecf0f1;*/
     margin: 20px auto;
     padding: 10px;
     text-align: center;
