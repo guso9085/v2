@@ -223,7 +223,7 @@ section p {
 .navbar li {
     list-style-type: none;
     display: inline-block;
-    margin-left: -39px;
+    margin-left: 10px;
 }
 
 .container {
