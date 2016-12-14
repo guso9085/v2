@@ -284,23 +284,53 @@ header p {
 	vertical-align: bottom;
 }
 
+.icon-social-twitter {
+	opacity: 1
+	transition: opacity: .5s
+}
+
+
 .icon-social-twitter:hover {
-	transition: opacity: .6
+	opacity: .5
+	transition: opacity: .5s
+}
+
+.icon-social-facebook {
+	opacity: 1
+	transition: opacity: .5s
 }
 
 .icon-social-facebook:hover {
-	transition: opacity: .6
+	opacity: .5
+	transition: opacity: .5s
+}
+
+.icon-social-linkedin {
+	opacity: 1
+	transition: opacity: .5s
 }
 
 .icon-social-linkedin:hover {
-	transition: opacity: .6
+	opacity: .5
+	transition: opacity: .5s
+}
+
+.icon-social-soundcloud {
+	opacity: 1
+	transition: opacity: .5s
 }
 
 .icon-social-soundcloud:hover {
-	transition: opacity: .6
+	opacity: .5
+	transition: opacity: .5s
+}
+
+.icon-social-github {
+	opacity: 1
+	transition: opacity: .5s
 }
 
 .icon-social-github:hover {
-	transition: opacity: .6
-
+	opacity: .5
+	transition: opacity: .5s
 }
