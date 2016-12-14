@@ -215,13 +215,14 @@ section p {
 
 
 .navbar {
-    padding: 5px;
-    position: fixed;
+		padding: 2px;
+		position: absolute;
 		top: 10px;
+		left: -35px;
 }
 .navbar li {
     list-style-type: none;
-    margin-bottom: 10px;
+    display: inline-block;
     margin-left: -39px;
 }
 
