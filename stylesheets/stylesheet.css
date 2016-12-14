@@ -285,52 +285,52 @@ header p {
 }
 
 .icon-social-twitter {
-	opacity: 1
-	transition: opacity: .5s
+	opacity: 1;
+	transition: opacity: .5s;
 }
 
 
 .icon-social-twitter:hover {
-	opacity: .5
-	transition: opacity: .5s
+	opacity: .5;
+	transition: opacity: .5s;
 }
 
 .icon-social-facebook {
-	opacity: 1
-	transition: opacity: .5s
+	opacity: 1;
+	transition: opacity: .5s;
 }
 
 .icon-social-facebook:hover {
-	opacity: .5
-	transition: opacity: .5s
+	opacity: .5;
+	transition: opacity: .5s;
 }
 
 .icon-social-linkedin {
-	opacity: 1
-	transition: opacity: .5s
+	opacity: 1;
+	transition: opacity: .5s;
 }
 
 .icon-social-linkedin:hover {
-	opacity: .5
-	transition: opacity: .5s
+	opacity: .5;
+	transition: opacity: .5s;
 }
 
 .icon-social-soundcloud {
-	opacity: 1
-	transition: opacity: .5s
+	opacity: 1;
+	transition: opacity: .5s;
 }
 
 .icon-social-soundcloud:hover {
-	opacity: .5
-	transition: opacity: .5s
+	opacity: .5;
+	transition: opacity: .5s;
 }
 
 .icon-social-github {
-	opacity: 1
-	transition: opacity: .5s
+	opacity: 1;
+	transition: opacity .5s;
 }
 
 .icon-social-github:hover {
-	opacity: .5
-	transition: opacity: .5s
+	opacity: .5;
+	transition: opacity .5s;
 }
