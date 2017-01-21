@@ -36,6 +36,7 @@ header {
 		padding-bottom: 4px;
 		width: 100%;
 		margin: auto;
+		display:block;
 }
 
 header h1 {
@@ -211,7 +212,7 @@ section p {
     padding: 7px;
     width: 370px;
     box-shadow: 3px 3px 8px rgba(0,0,0,.4);
-    margin: 10px auto -20px;
+    margin: auto;
     /*border: 4px solid #ecf0f1;*/
     text-align: center;
     transition: width 1s, background-color 1s, border 1s;
@@ -239,7 +240,6 @@ section p {
 .navbar {
 		width: 100%;
 		padding: 2px;
-		position: absolute;
 		background-color: rgba(52,61,70, .7);
 }
 .navbar li {
