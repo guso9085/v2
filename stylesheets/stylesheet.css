@@ -238,10 +238,12 @@ section p {
 
 
 .navbar {
-		width: 100%;
-		padding: 2px;
-		background-color: rgba(52,61,70, .7);
+    width: 100%;
+    padding: 2px;
+    margin: -18px auto 10px;
+    background-color: rgba(52,61,70, .7);
 }
+
 .navbar li {
     list-style-type: none;
     display: inline-block;
