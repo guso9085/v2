@@ -225,6 +225,18 @@ section p {
 }
 
 #projbutton {
+    background: #FFFFFF;
+    /* right: 10px; */
+    height: 150px;
+    top: -47px;
+    right: 1px;
+    position: absolute;
+    width: 150px;
+    margin-left: 200px;
+    transform: rotate(45deg);
+}
+
+#projtext {
 		
 }
 .resume:hover {
