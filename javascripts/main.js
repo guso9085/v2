@@ -19,5 +19,7 @@ $(document).ready(function() {
     e.preventDefault();
     $('.container').slick('slickGoTo', 1);
   });
-  $('.projectz').slick();
+  $('.projectz').slick({
+    dots: true
+  });
 });
