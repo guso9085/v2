@@ -224,6 +224,14 @@ section p {
 		left: 0;
 }
 
+.slick-dots li button {
+		width: 40px !important;
+		height: 40px !important;
+		color: rgba(255,255,255,.6) !important;
+
+
+}
+
 .PImg:hover {
 		height: 96%;
 		text-align: center;

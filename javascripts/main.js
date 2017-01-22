@@ -20,6 +20,7 @@ $(document).ready(function() {
     $('.container').slick('slickGoTo', 1);
   });
   $('.projectz').slick({
-    dots: true
+    dots: true,
+    draggable:false
   });
 });
