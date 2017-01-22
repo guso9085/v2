@@ -3,6 +3,5 @@ $(document).ready(function() {
   console.log('callback - particles.js config loaded');
   });
   $('.container').slick({
-    setting-name: setting-value
   });
 });
