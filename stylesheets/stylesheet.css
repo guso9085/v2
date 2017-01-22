@@ -225,17 +225,18 @@ section p {
 }
 
 #projbutton {
-		background-image: url("../gifdoe.gif");
-		background-attachment:fixed;
-		background-size: cover;
-    /* right: 10px; */
-    height: 150px;
-    top: -47px;
-    right: 1px;
-    position: absolute;
-    width: 150px;
-    margin-left: 200px;
-    transform: rotate(45deg);
+		background-image: url(../gifdoe.gif);
+/* background-attachment: fixed; */
+/* background-size: cover; */
+/* right: 10px; */
+		height: 150px;
+		top: -47px;
+		border: 4px solid white;
+		right: 1px;
+		position: absolute;
+		width: 150px;
+		margin-left: 200px;
+		transform: rotate(45deg);
 }
 
 #projtext {
