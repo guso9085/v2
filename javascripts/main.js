@@ -3,7 +3,7 @@ $(document).ready(function() {
   console.log('callback - particles.js config loaded');
   });
   $('.container').slick({
-    dots: true,
+    dots: false,
     infinite: true,
     speed: 300,
     arrows: false,
@@ -19,10 +19,10 @@ $(document).ready(function() {
     $('.container').slick('slickGoTo', 1);
   });
   $('.projectz').slick({
-    dots: true,
+    dots: false,
     infinite: false,
     speed: 300,
-    arrows: false,
+    arrows: true,
     slidesToShow: 4,
     slidesToScroll: 4,
     responsive: [
