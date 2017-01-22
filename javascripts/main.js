@@ -9,4 +9,8 @@ $(document).ready(function() {
     slidesToShow: 1,
     adaptiveHeight: true
   });
+  $('#aboutbutton a').click(function(e){
+    e.preventDefault();
+    $('.container').slickGoTo(0);
+  });
 });
