@@ -11,6 +11,6 @@ $(document).ready(function() {
   });
   $('#aboutbutton a').click(function(e){
     e.preventDefault();
-    $('.container').slickGoTo(0);
+    $('.container').slick('slickGoTo', 0);
   });
 });
