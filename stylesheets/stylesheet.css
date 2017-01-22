@@ -10,6 +10,14 @@ html {
   	z-index: 5;
 }
 
+#aboutbutton {
+
+}
+
+#projbutton {
+
+}
+
 #particles-js {
   	z-index: -1;
   	position: fixed;
