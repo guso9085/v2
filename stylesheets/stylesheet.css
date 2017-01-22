@@ -68,6 +68,7 @@ header {
 		width: 100%;
 		margin: auto;
 		display:block;
+		line-height: 116px;
 }
 
 header h1 {
