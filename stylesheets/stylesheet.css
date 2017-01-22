@@ -240,7 +240,7 @@ section p {
 		height: 150px;
 		top: -47px;
 		border: 4px solid white;
-		right: 1px;
+		right: -6px;
 		position: absolute;
 		width: 150px;
 		margin-left: 200px;
@@ -249,12 +249,12 @@ section p {
 }
 
 #detailtext {
-    /* right: 10px; */
-    transform: rotate(315deg);
-    position: absolute;
-    bottom: 26px;
-    right: 29px;
-    /* top: 12px; */
+	/* right: 10px; */
+		transform: rotate(315deg);
+		position: absolute;
+		bottom: 24px;
+		right: 22px;
+/* top: 12px; */
 }
 .resume:hover {
 		background-color: rgba(52,61,70, .6);
@@ -273,13 +273,16 @@ section p {
 		width: 100%;
 		padding-top: 1px;
 		margin: -18px auto 10px;
+		box-shadow: 0px 0px 45px rgba(0,0,0,.5);
 		background-color: rgba(52,61,70, .7);
 }
 
 .navbar li {
-    list-style-type: none;
-    display: inline-block;
-    margin-left: 10px;
+		list-style-type: none;
+		display: inline-block;
+		margin-left: 10px;
+		margin-bottom: -11px;
+}
 }
 
 .container {
