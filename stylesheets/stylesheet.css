@@ -63,11 +63,11 @@ html {
 }
 
 .slick-prev {
-    left: 25%;
+    left: 25% !important;
 }
 
 .slick-next {
-    right: 25%;
+    right: 25% !important;
 }
 
 
