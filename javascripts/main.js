@@ -18,7 +18,7 @@ $(document).ready(function() {
     e.preventDefault();
     $('.container').slick('slickGoTo', 1);
   });
-  $('.responsive').slick({
+  $('.projectz').slick({
     dots: true,
     infinite: false,
     speed: 300,
