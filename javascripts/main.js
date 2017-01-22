@@ -7,6 +7,7 @@ $(document).ready(function() {
     infinite: true,
     speed: 300,
     arrows: false,
+    accessibility: false,
     slidesToShow: 1,
     adaptiveHeight: true,
     draggable: false
