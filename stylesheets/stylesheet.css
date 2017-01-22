@@ -63,11 +63,11 @@ html {
 }
 
 .slick-prev {
-    left: 25% !important;
+    left: 22% !important;
 }
 
 .slick-next {
-    right: 25% !important;
+    right: 22% !important;
 }
 
 
@@ -224,12 +224,9 @@ section p {
 		left: 0;
 }
 
-.slick-dots li button {
-		width: 40px !important;
-		height: 40px !important;
-		color: rgba(255,255,255,.6) !important;
-
-
+.slick-dots li button:before {
+		font-size: 15px !important;
+		color: rgba(255,255,255,1) !important;
 }
 
 .PImg:hover {
