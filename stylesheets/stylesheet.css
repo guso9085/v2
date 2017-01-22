@@ -285,11 +285,13 @@ section p {
 }
 
 #about {
-
+		bottom: 11px;
+	  position: relative;
 }
 
 #proj {
-	
+		bottom: 11px;
+    position: relative;
 }
 
 .container {
