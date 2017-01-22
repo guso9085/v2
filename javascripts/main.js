@@ -8,7 +8,8 @@ $(document).ready(function() {
     speed: 300,
     arrows: false,
     slidesToShow: 1,
-    adaptiveHeight: true
+    adaptiveHeight: true,
+    draggable: false
   });
   $('#aboutbutton a').click(function(e){
     e.preventDefault();
