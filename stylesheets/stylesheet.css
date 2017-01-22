@@ -224,6 +224,9 @@ section p {
     display: block;
 }
 
+#projbutton {
+		
+}
 .resume:hover {
 		background-color: rgba(52,61,70, .6);
 		padding: 7px;
