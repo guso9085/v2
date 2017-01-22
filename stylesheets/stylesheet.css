@@ -225,7 +225,9 @@ section p {
 }
 
 #projbutton {
-    background: #FFFFFF;
+		background-image: url("../gifdoe.gif");
+		background-attachment:fixed;
+		background-size: cover;
     /* right: 10px; */
     height: 150px;
     top: -47px;
@@ -237,7 +239,12 @@ section p {
 }
 
 #projtext {
-		
+    /* right: 10px; */
+    transform: rotate(315deg);
+    position: absolute;
+    bottom: 26px;
+    right: 29px;
+    /* top: 12px; */
 }
 .resume:hover {
 		background-color: rgba(52,61,70, .6);
