@@ -13,4 +13,8 @@ $(document).ready(function() {
     e.preventDefault();
     $('.container').slick('slickGoTo', 0);
   });
+  $('#projbutton a').click(function(e){
+    e.preventDefault();
+    $('.container').slick('slickGoTo', 1);
+  });
 });
