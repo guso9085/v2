@@ -102,6 +102,7 @@ header {
 
 #Name {
 		margin-top: 20px;
+		display:inline-block;
 		box-shadow: 0px 0px 45px rgba(0,0,0,.5);
 		background-color: rgba(52,61,70, .3);
 }
