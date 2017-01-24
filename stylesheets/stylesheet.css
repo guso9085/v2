@@ -101,7 +101,7 @@ header {
 
 #Textbody {
     display: block;
-    width: 80%;
+    width: 60%;
     margin: 10px auto 10px auto;
     padding: 0px 20px 20px 20px;
     box-shadow: 0px 0px 45px rgba(0,0,0,.5);
@@ -111,8 +111,9 @@ header {
 #Name {
     margin-top: 46px;
 		background-image: url(../gifdoe.gif);
+		background-size: cover;
     vertical-align: middle;
-		border: 4px solid white;
+		/*border: 4px solid white;*/
     display: inline-block;
     width: 440px;
     padding: 0px 36px 0px 36px;
@@ -144,7 +145,7 @@ a {
     background-color: rgba(52,61,70, .7);
     border-radius: 50%;
     bottom: 72%;
-    left: 32.8%;
+    right: 65%;
     position: absolute;
     border: 4px solid white;
     display: inline-block;
@@ -161,7 +162,7 @@ a {
 		position: absolute;
 		width: 100px;
 		top: 7%;
-		left: 25.3%;
+		left: 25%;
 		border-radius: 50%;
     border: 4px solid white;
     display: inline-block;
