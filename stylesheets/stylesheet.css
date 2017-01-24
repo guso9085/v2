@@ -100,7 +100,7 @@ header {
 		line-height: 70px;
 }
 
-#body {
+#Textbody {
 		margin-top: 46px;
 		vertical-align: middle;
 		display: block;
@@ -124,7 +124,7 @@ header {
 		background-color: rgba(52,61,70, .3);
 }
 
-#Major {
+.Major {
 		margin-top: 46px;
 		display:inline-block;
 		position: absolute;
