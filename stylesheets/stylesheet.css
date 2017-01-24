@@ -134,9 +134,7 @@ a {
 }
 
 .banner {
-		background-image: url("/images/CULogo.png");
-		background-attachment:fixed;
-		background-size: cover;
+		background-image: url(../CULogo.png);
     padding: 10px;
     /*width: 50px;*/
     border: 4px solid white;
@@ -147,9 +145,7 @@ a {
 }
 
 .portrait {
-		background-image: url("images/me.jpg");
-		background-attachment:fixed;
-		background-size: cover;
+		background-image: url(../me.jpg);
 		height: 100px;
 		padding: 10px;
 		position: absolute;
