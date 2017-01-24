@@ -133,6 +133,17 @@ a {
 		color:#7f8c8d;
 }
 
+.banner {
+    background-color:	rgba(52,61,70, .4);
+    padding: 10px;
+    /*width: 50px;*/
+    border: 4px solid white;
+    display: inline-block;
+    margin: auto;
+		padding-bottom: 5px;
+		box-shadow: 0px 0px 41px rgba(0,0,0,1);
+}
+
 .portrait {
     background-color:	rgba(52,61,70, .4);
     padding: 10px;
