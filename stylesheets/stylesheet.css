@@ -68,19 +68,18 @@ html {
 }
 
 .slick-prev {
-    left: 22% !important;
+    left: 25% !important;
 }
 
 .slick-next {
-    right: 22% !important;
+    right: 25% !important;
 }
 
 
 
 
 .projectz {
-		width: 90%;
-		margin-top: 75px;
+		width: 100%;
 }
 
 body {
