@@ -106,7 +106,6 @@ body {
 
 #flats {
     top: 0;
-    background-image: url(../flatirons.jpg);
     width: 100%;
     z-index: -1;
     background-position-y: 29%;
