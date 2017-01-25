@@ -26,4 +26,8 @@ $(document).ready(function() {
     dots: true,
     draggable:false
   });
+  $('.hackathons').slick({
+    dots: true,
+    draggable:false
+  });
 });
