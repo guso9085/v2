@@ -58,17 +58,15 @@
 
 .krish {
 		font-weight: bold;
-		color: #27ae60
+		color: #27ae60;
 		transition: color .3s;
 }
 
 .krish:hover {
 		font-weight: bold;
-		color: #f39c12
+		color: #f39c12;
 		transition: color .3s;
 }
-
-
 
 
 
