@@ -79,8 +79,11 @@ html {
 
 
 .projectz {
-		width: 100%;
-		display: block;
+    width: 100%;
+    display: block !important;
+    position: relative !important;
+    margin-top: 70%;
+    background-color: #2c3e50;
 }
 
 body {
@@ -113,11 +116,12 @@ body {
 
 #Textbody {
     display: block;
-    width: 60%;
+    width: 70%;
     margin: 10px auto 10px auto;
     padding: 0px 20px 20px 20px;
-    box-shadow: 0px 0px 45px rgba(0,0,0,.5);
-    background-color: rgba(52,61,70, .3);
+		font-family: Raleway;
+		font-size: 20px;
+		color: #34495e;
 }
 
 #Name {
@@ -172,6 +176,11 @@ section p {
 		padding-top: 6px;
 		margin-bottom: 15px;
 		width: 100%;
+}
+
+.parallax-window {
+    min-height: 400px;
+    background: transparent;
 }
 
 
