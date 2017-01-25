@@ -78,7 +78,7 @@ html {
 		height:100%;
 }
 
-*/
+
 /*NAVBARS*/
 
 #aboutbutton {
@@ -353,29 +353,24 @@ section p {
 }
 
 .PHeader {
-    background-color: rgba(52,61,70, .4);
-    padding: 2px 13px 2px 13px;
-    width: 199px;
     color: #FFFFFF;
-    box-shadow: 3px 3px 8px rgba(0,0,0,.4);
+		font-size: 25px;
+		font-family: Lato;
+		font-weight: 100;
+		opacity: 1;
     margin: 10px auto;
     text-align: center;
-    transition: all .5s;
-    display: inline-block;
+    transition: opacity .3s;
+    display: block;
 }
 
 .PHeader:hover {
-		background-image: url(../gifdoe.gif);
-		border: 4px solid #ecf0f1;
-		background-color: rgba(52,61,70, .6);
-		padding: 2px 13px 2px 13px;
-		width: 199px;
-		color: #FFFFFF;
-		box-shadow: 3px 3px 8px rgba(0,0,0,.4);
+		font-size: 25px;
+		font-family: Lato;
+		font-weight: 100;
+		opacity: .5;
 		margin: 10px auto;
-		text-align: center;
-		transition: all .5s:
-		display: inline-block;
+		transition: opacity .3s;
 
 }
 
