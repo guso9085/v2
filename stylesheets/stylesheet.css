@@ -380,10 +380,9 @@ section p {
 }
 
 .resume:hover {
-		transition: color .5s;
-		color: #f39c12;
 		font-weight: bold;
-
+		color: #f39c12;
+		transition: color .5s;
 }
 
 #copyright {
@@ -394,9 +393,6 @@ section p {
 
 #detailbutton {
 		background-image: url(../gifdoee.gif);
-/* background-attachment: fixed; */
-/* background-size: cover; */
-/* right: 10px; */
 		z-index: 6;
 		height: 150px;
 		top: -47px;
@@ -509,7 +505,7 @@ section {
 }
 
 
-.icon-social-twitter {
+.icon-social-twitter:hover {
 		opacity: .5;
 		transition: opacity .3s;
 }
@@ -519,7 +515,7 @@ section {
 		transition: opacity .5s;
 }
 
-.icon-social-facebook {
+.icon-social-facebook:hover {
 		opacity: .5;
 		transition: opacity .3s;
 }
@@ -529,7 +525,7 @@ section {
 		transition: opacity .5s;
 }
 
-.icon-social-linkedin {
+.icon-social-linkedin:hover {
 		opacity: .5;
 		transition: opacity .3s;
 }
@@ -539,7 +535,7 @@ section {
 		transition: opacity .5s;
 }
 
-.icon-social-soundcloud {
+.icon-social-soundcloud:hover {
 		opacity: .5;
 		transition: opacity .3s;
 }
@@ -549,7 +545,7 @@ section {
 		transition: opacity .5s;
 }
 
-.icon-social-github {
+.icon-social-github:hover {
 		opacity: .5;
 		transition: opacity .3s;
 }
