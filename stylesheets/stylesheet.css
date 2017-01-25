@@ -122,16 +122,20 @@ body {
 }
 
 #Name {
-    margin-top: 46px;
+    /* margin-top: 46px; */
+    position: absolute;
     vertical-align: middle;
-		/*border: 4px solid white;*/
+    margin: auto;
+    /* border: 4px solid white; */
     display: inline-block;
+    top: 50%;
     width: 440px;
-    padding: 0px 36px 0px 36px;
+    /* padding: 0px 36px 0px 36px; */
     left: 25%;
     box-shadow: 0px 0px 45px rgba(0,0,0,.5);
-    background-color: rgba(52,61,70, .3);
+    /* background-color: rgba(52,61,70, .3); */
 }
+
 #Major {
     margin-top: 46px;
     display: inline-block;
