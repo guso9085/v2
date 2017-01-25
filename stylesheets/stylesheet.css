@@ -354,22 +354,17 @@ section p {
 
 .PHeader {
     color: #FFFFFF;
-		font-size: 25px;
+		font-size: 30px;
 		font-family: Lato;
 		font-weight: 100;
 		opacity: 1;
-    margin: 10px auto;
-    text-align: center;
+    margin: -18px auto;
     transition: opacity .3s;
     display: block;
 }
 
 .PHeader:hover {
-		font-size: 25px;
-		font-family: Lato;
-		font-weight: 100;
 		opacity: .5;
-		margin: 10px auto;
 		transition: opacity .3s;
 
 }
