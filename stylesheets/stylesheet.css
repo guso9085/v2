@@ -1,9 +1,10 @@
 @import url("../simple-line-icons/css/simple-line-icons.css");
 
 html {
-		background-image: url("../pattern.png");
+		/*background-image: url("../pattern.png");
 		background-attachment:fixed;
-    background-size: cover;
+    background-size: cover;*/
+		background-color: #ecf0f1;
 		height:100%;
 }
 
