@@ -23,7 +23,7 @@ $(document).ready(function() {
   });
   */
   $('#aboutbutton a').click(function(e){
-    document.querySelector('.hello').scrollIntoView({
+    document.querySelector('#Name').scrollIntoView({
     behavior: 'smooth'
     });
   });
