@@ -2,6 +2,18 @@
 
 /*Font Customizations*/
 
+#G {
+		font-family: Lato, sans-serif;
+		font-weight: bold;
+		color: #c0392b;
+}
+
+#ustav {
+		font-family: Lato, sans-serif;
+		font-weight: 100;
+		color; #34495e;
+}
+
 .black {
 		font-weight: bold;
 		color: #000000;
