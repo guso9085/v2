@@ -163,7 +163,7 @@ html {
     height: 300px;
     display: block;
     text-align: center;
-    margin: 30px auto 10px;
+    margin: -3px auto 130px;
 }
 
 .projectz {
@@ -202,7 +202,7 @@ body {
 #Textbody {
     display: block;
     width: 40%;
-    margin: 15px auto 28px auto;
+    margin: 15px auto 120px auto;
     padding: 0px 20px 20px 20px;
     font-family: Raleway;
     font-size: 20px;
@@ -222,7 +222,7 @@ body {
 }
 
 #contacts {
-    margin: 0px auto 1px;
+    margin: 0px auto 0px;
     display: block;
     width: 440px;
 }
@@ -249,6 +249,11 @@ section p {
     margin: 20px auto;
     text-align: center;
     font-weight: bold;
+}
+
+.slick-dotted.slick-slider {
+    margin-bottom: 180px !important;
+		padding-bottom: 40px !important;
 }
 
 
@@ -346,6 +351,17 @@ section p {
 		position: absolute;
 		top: 0;
 		left: 0;
+}
+
+.slick-dots {
+    position: absolute;
+    bottom: -25px;
+    display: block;
+    width: 100%;
+    padding: 0;
+    margin: 44px auto !important; 
+    list-style: none;
+    text-align: center;
 }
 
 .slick-dots li button:before {
