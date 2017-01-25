@@ -117,8 +117,12 @@ html {
     right: 15% !important;
 }
 
-
-
+.contact {
+		width: 100%;
+		display: block;
+		margin: 10px auto 10px;
+		
+}
 
 .projectz {
     width: 100%;
