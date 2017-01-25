@@ -1,5 +1,16 @@
 @import url("../simple-line-icons/css/simple-line-icons.css");
 
+/*Font Customizations*/
+
+.period {
+		color: #000000;
+}
+
+
+
+
+
+
 html {
 		/*background-image: url("../pattern.png");
 		background-attachment:fixed;
