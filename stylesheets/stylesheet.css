@@ -190,6 +190,10 @@ body {
     color: #34495e;
 }
 
+data-z-index {
+		z-index: 
+}
+
 #Name {
     margin: -25px auto 10px;
     display: block;
