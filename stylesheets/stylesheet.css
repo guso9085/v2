@@ -59,11 +59,13 @@
 .krish {
 		font-weight: bold;
 		color: #27ae60
+		transition: color .3s;
 }
 
 .krish:hover {
 		font-weight: bold;
 		color: #f39c12
+		transition: color .3s;
 }
 
 
@@ -386,13 +388,13 @@ section p {
 .resume {
 		font-weight: bold;
 		color: #1abc9c;
-		transition: color .5s;
+		transition: color .3s;
 }
 
 .resume:hover {
 		font-weight: bold;
 		color: #f39c12;
-		transition: color .5s;
+		transition: color .3s;
 }
 
 #copyright {
