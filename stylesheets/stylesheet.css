@@ -202,7 +202,9 @@ a {
 
 .portrait {
     background-image: url(../me.jpg);
-    background-size: cover;
+    background-size: 172%;
+    background-position-x: -91px;
+    background-position-y: -41px;
     height: 250px;
     border-radius: 50%;
     width: 250px;
