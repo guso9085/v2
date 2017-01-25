@@ -170,20 +170,16 @@ a {
 }
 
 .portrait {
+		background-image: url(../me.jpg);
     height: 150px;
     top: 58%;
     position: absolute;
-    transform: rotate(45deg);
+    border-radius: 50%;
     width: 150px;
     right: 0;
     left: 0;
     border: 4px solid #ecf0f1;
     margin: auto;
-}
-
-.portrait img {
-		transform: rotate(315deg);
-
 }
 
 
