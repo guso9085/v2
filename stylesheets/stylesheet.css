@@ -2,6 +2,11 @@
 
 /*Font Customizations*/
 
+.black {
+		font-weight: bold;
+		color: #000000;
+}
+
 .blue {
 		font-weight: bold;
 		color: #2980b9;
@@ -118,10 +123,12 @@ html {
 }
 
 .contact {
-		width: 100%;
-		display: block;
-		margin: 10px auto 10px;
-		
+    width: 35%;
+    line-height: 56px;
+    height: 179px;
+    display: block;
+    text-align: center;
+    margin: 10px auto 10px;
 }
 
 .projectz {

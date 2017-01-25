@@ -24,7 +24,7 @@ $(document).ready(function() {
   */
   $('#aboutbutton a').click(function(e){
     document.querySelector('#Name').scrollIntoView({
-    behavior: 'smooth'
+      behavior: 'smooth'
     });
   });
   $('.projectz').slick({
