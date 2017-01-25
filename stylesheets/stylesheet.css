@@ -16,6 +16,20 @@
 		font-size: 90px;
 }
 
+#T {
+		font-family: Lato, sans-serif;
+		font-weight: 100;
+		color: #c0392b;
+		font-size: 60px;
+}
+
+#itle {
+		font-family: Lato, sans-serif;
+		font-weight: 100;
+		color: #34495e;
+		font-size: 60px;
+}
+
 .black {
 		font-weight: bold;
 		color: #000000;
