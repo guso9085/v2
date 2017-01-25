@@ -4,16 +4,16 @@
 
 #G {
 		font-family: Lato, sans-serif;
-		font-weight: 800;
+		font-weight: 100;
 		color: #c0392b;
-		font-size: 60px;
+		font-size: 90px;
 }
 
 #ustav {
 		font-family: Lato, sans-serif;
 		font-weight: 100;
 		color: #34495e;
-		font-size: 60px;
+		font-size: 90px;
 }
 
 .black {
@@ -183,23 +183,18 @@ body {
 #Textbody {
     display: block;
     width: 60%;
-    margin: 35px auto 10px auto;
+    margin: 15px auto 10px auto;
     padding: 0px 20px 20px 20px;
-		font-family: Raleway;
-		font-size: 20px;
-		color: #34495e;
+    font-family: Raleway;
+    font-size: 20px;
+    color: #34495e;
 }
 
 #Name {
-    vertical-align: middle;
-    margin: -25px auto 45px;
+    margin: -25px auto 10px;
     display: block;
-    top: 80%;
     width: 440px;
-    left: 0;
-    right: 0;
 }
-
 a {
 		text-decoration: none;
 		color:#7f8c8d;
