@@ -1,4 +1,4 @@
-@import url("../simple-line-icons/css/simple-line-icons.css");
+@import url("../simple-line-icons/csssl/simple-line-icons.css");
 
 /*Font Customizations*/
 
@@ -110,11 +110,11 @@ html {
 }
 
 .slick-prev {
-    left: 25% !important;
+    left: 15% !important;
 }
 
 .slick-next {
-    right: 25% !important;
+    right: 15% !important;
 }
 
 

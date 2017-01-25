@@ -22,6 +22,11 @@ $(document).ready(function() {
     $('.container').slick('slickGoTo', 1);
   });
   */
+  $('#aboutbutton a').click(function(e){
+    document.querySelector('.hello').scrollIntoView({
+    behavior: 'smooth'
+    });
+  });
   $('.projectz').slick({
     dots: true,
     draggable:false
