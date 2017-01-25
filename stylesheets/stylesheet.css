@@ -61,6 +61,8 @@
 
 
 
+
+
 html {
 		/*background-image: url("../pattern.png");
 		background-attachment:fixed;
@@ -372,14 +374,16 @@ section p {
 
 
 .resume {
-    background-color: rgba(52,61,70, .4);
-    padding: 7px;
-    width: 370px;
-    box-shadow: 3px 3px 8px rgba(0,0,0,.4);
-    margin: auto;
-    /*border: 4px solid #ecf0f1;*/
-    text-align: center;
-    transition: width 1s, background-color 1s, border 1s;
+		font-weight: bold;
+		color: #1abc9c;
+		transition: color .5s;
+}
+
+.resume:hover {
+		transition: color .5s;
+		color: #f39c12;
+		font-weight: bold;
+
 }
 
 #copyright {
@@ -413,18 +417,6 @@ section p {
 		right: 22px;
 /* top: 12px; */
 }
-.resume:hover {
-		background-color: rgba(52,61,70, .6);
-		padding: 7px;
-		width: 263px;
-		box-shadow: 3px 3px 8px rgba(0,0,0,.4);
-		margin: 10px auto -20px;
-		/*border: 4px solid #2ecc71;*/
-		text-align: center;
-		transition: width 1s, background-color 1s, border 1s;
-
-}
-
 
 .navbar {
     position: fixed;
@@ -517,7 +509,7 @@ section {
 }
 
 
-.icon-social-twitter:hover {
+.icon-social-twitter {
 		opacity: .5;
 		transition: opacity .3s;
 }
@@ -527,7 +519,7 @@ section {
 		transition: opacity .5s;
 }
 
-.icon-social-facebook:hover {
+.icon-social-facebook {
 		opacity: .5;
 		transition: opacity .3s;
 }
@@ -537,7 +529,7 @@ section {
 		transition: opacity .5s;
 }
 
-.icon-social-linkedin:hover {
+.icon-social-linkedin {
 		opacity: .5;
 		transition: opacity .3s;
 }
@@ -547,7 +539,7 @@ section {
 		transition: opacity .5s;
 }
 
-.icon-social-soundcloud:hover {
+.icon-social-soundcloud {
 		opacity: .5;
 		transition: opacity .3s;
 }
@@ -557,7 +549,7 @@ section {
 		transition: opacity .5s;
 }
 
-.icon-social-github:hover {
+.icon-social-github {
 		opacity: .5;
 		transition: opacity .3s;
 }
