@@ -83,11 +83,11 @@ html {
 }
 
 body {
-		color: #FFFFFF;
-		font-family: Raleway;
-		height: 100%;
-		width: 100%;
-		margin: 16px auto;
+    color: #FFFFFF;
+    font-family: Raleway;
+    height: 100%;
+    width: 100%;
+    margin: auto;
 }
 
 header {
@@ -100,12 +100,14 @@ header {
 }
 
 #flats {
-		position: absolute;
-		top: 0px;
-		background-image: url(../flatirons.jpg);
-		width: 100%;
-		height: 30%;
-		background-size: cover;
+    position: absolute;
+    top: 0%;
+    background-image: url(../flatirons.jpg);
+    width: 50%;
+    z-index: -1;
+    background-position-y: 29%;
+    height: 70%;
+    /* background-size: cover; */
 }
 
 #Textbody {
@@ -163,19 +165,14 @@ a {
 
 .portrait {
 		background-image: url(../me.jpg);
-		height: 100px;
+		height: 150px;
 		background-size: cover;
-		padding: 10px;
 		position: absolute;
-		width: 100px;
-		top: 7%;
-		left: 25%;
-		border-radius: 50%;
+		z-index:
+		width: 150px;
+		transform: rotate(45deg);
     border: 4px solid white;
-    display: inline-block;
     margin: auto;
-		padding-bottom: 5px;
-		box-shadow: 0px 0px 41px rgba(0,0,0,1);
 }
 
 section p {
@@ -353,7 +350,7 @@ section p {
 }
 
 #detailbutton {
-		background-image: url(../gifdoe.gif);
+		background-image: url(../gifdoee.gif);
 /* background-attachment: fixed; */
 /* background-size: cover; */
 /* right: 10px; */
@@ -391,13 +388,14 @@ section p {
 
 
 .navbar {
-		position: fixed;
-		top: 0px;
-		width: 100%;
-		padding-top: 1px;
-		margin: -18px auto -32px;
-		box-shadow: 0px 0px 45px rgba(0,0,0,.5);
-		background-color: rgba(52,61,70, .7);
+    position: fixed;
+    top: 14px;
+    width: 100%;
+    z-index: 6;
+    padding-top: 1px;
+    margin: -18px auto -32px;
+    box-shadow: 0px 0px 45px rgba(0,0,0,.5);
+    background-color: rgba(52,61,70, .7);
 }
 
 .navbar li {
