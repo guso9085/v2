@@ -22,6 +22,7 @@
     <script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
     <script type="text/javascript" src="slick/slick.min.js"></script>
     <script src="/parallax/parallax.js"></script>
+    <script src="dist/js/smooth-scroll.js"></script>
     <title>guso.io</title>
   </head>
 
@@ -67,22 +68,29 @@
               </li>
               <li id="about">
                 <div id="aboutbutton">
-                  <a target="_blank" href="">
-                   <p style="font-family: Raleway; color: #FFFFFF; font-size:25px"> ABOUT </p>
+                  <a data-scroll target="_blank" href=".portrait">
+                   <p style="font-family: Raleway; color: #FFFFFF; font-size:20px"> ABOUT </p>
                   </a>
                 </div>
               </li>
               <li id="proj">
                 <div id="projbutton">
-                  <a target="_blank" href="">
-                   <p style="font-family: Raleway; color: #FFFFFF; font-size:25px"> PROJECTS </p>
+                  <a data-scroll target="_blank" href="#projects">
+                   <p style="font-family: Raleway; color: #FFFFFF; font-size:20px"> PROJECTS </p>
+                  </a>
+                </div>
+              </li>
+              <li id="hack">
+                <div id="hackbutton">
+                  <a data-scroll target="_blank" href="#hackathons">
+                   <p style="font-family: Raleway; color: #FFFFFF; font-size:20px"> HACKATHONS </p>
                   </a>
                 </div>
               </li>
               <li id="cont">
                 <div id="contbutton">
-                  <a target="_blank" href="">
-                   <p style="font-family: Raleway; color: #FFFFFF; font-size:25px"> CONTACT </p>
+                  <a data-scroll target="_blank" href="#contacts">
+                   <p style="font-family: Raleway; color: #FFFFFF; font-size:20px"> CONTACT </p>
                   </a>
                 </div>
               </li>
@@ -263,6 +271,11 @@
             <p id = "copyright" style="font-size:10px"> Copyright 2016 Gustav Solis </p>
           -->
           </div>
+          <footer>
+            <script>
+              smoothScroll.init();
+            </script>
+          </footer>
           <!--<div class = "madeby" style = "font-family: Raleway; color: #FFFFFF">
             Copyright 2016 Gustav Solis
           </div>-->

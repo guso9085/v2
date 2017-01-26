@@ -114,6 +114,18 @@ html {
 		transition: opacity .3s;
 }
 
+#hackbutton {
+		margin-left: 100px;
+		opacity: 1;
+		transition: opacity.3s;
+}
+
+#hackbutton:hover {
+		margin-left: 100px;
+		opacity: .5;
+		transition: opacity .3s;
+}
+
 #contbutton {
 		margin-left: 135px;
 		opacity: 1;
@@ -506,6 +518,11 @@ section p {
 #proj {
 		bottom: 11px;
     position: relative;
+}
+
+#hack {
+		bottom: 11px;
+		position: relative;
 }
 
 .container {
