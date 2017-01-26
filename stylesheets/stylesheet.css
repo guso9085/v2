@@ -211,8 +211,7 @@ body {
 #school {
     top: 0;
     width: 100%;
-    background-position-y: 29%;
-    height: 20%;
+    height: 40% !important;
     background-size: cover;
 }
 
