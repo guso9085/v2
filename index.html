@@ -22,6 +22,7 @@
     <script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
     <script type="text/javascript" src="slick/slick.min.js"></script>
     <script src="/parallax/parallax.js"></script>
+    <script src="dist/js/smooth-scroll.js"></script>
     <title>guso.io</title>
   </head>
 
@@ -67,14 +68,14 @@
               </li>
               <li id="about">
                 <div id="aboutbutton">
-                  <a target="_blank" href="">
+                  <a data-scroll href=".portrait">
                    <p style="font-family: Raleway; color: #FFFFFF; font-size:25px"> ABOUT </p>
                   </a>
                 </div>
               </li>
               <li id="proj">
                 <div id="projbutton">
-                  <a target="_blank" href="">
+                  <a data-scroll href="#projects">
                    <p style="font-family: Raleway; color: #FFFFFF; font-size:25px"> PROJECTS </p>
                   </a>
                 </div>
@@ -266,6 +267,9 @@
               <a target="_blank" class="green" href="https://www.linkedin.com/in/gusoio">LinkedIn</a>
             </div>
             <footer>
+              <script>
+                smoothScroll.init();
+              </script>
               Made with <span class="red">LOVE</span>
               <br>
               <span class="blue">Copyright 2016</span> | <span class="orange">All Rights Reserved</span> -- Source code can be found on <span class="yellow">GitHub</span>
