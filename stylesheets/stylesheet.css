@@ -181,7 +181,7 @@ html {
     display: block !important;
     position: relative !important;
     background-color: #bdc3c7;
-    box-shadow: 0px -10px 41px rgba(0,0,0,1);
+    box-shadow: 0px 20px 41px rgba(0,0,0,1);
 }
 
 body {
