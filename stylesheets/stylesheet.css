@@ -172,7 +172,7 @@ html {
     /* margin-bottom: 10px !important; */
     display: block !important;
     position: relative !important;
-    background-color: rgba(44,62,80, .7);
+    background-color: #95a5a6;
     box-shadow: 0px 0px 41px rgba(0,0,0,1);
 }
 
@@ -180,7 +180,7 @@ html {
     width: 100%;
     display: block !important;
     position: relative !important;
-    background-color: rgba(44,62,80, .7);
+    background-color: #95a5a6;
     box-shadow: 0px 0px 41px rgba(0,0,0,1);
 }
 
@@ -252,10 +252,7 @@ body {
     margin: -73px auto 0px;
     display: block;
     width: 440px;
-		color: #ecf0f1;
-		font-family: Lato;
-		font-weight: 100;
-		font-size: 60px;
+		background-color: #95a5a6;
 }
 
 a {
