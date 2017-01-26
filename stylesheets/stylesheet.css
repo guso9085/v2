@@ -208,6 +208,14 @@ body {
     background-size: cover;
 }
 
+#school {
+    top: 0;
+    width: 100%;
+    background-position-y: 29%;
+    height: 20%;
+    background-size: cover;
+}
+
 #Textbody {
     display: block;
     width: 40%;
