@@ -269,6 +269,7 @@ body {
 #projects {
     margin: 0px auto -174px;
     display: block;
+		padding: 100px;
     width: 440px;
 }
 
@@ -289,7 +290,7 @@ a {
 		text-decoration: none;
 }
 
-.portrait {
+#portrait {
     background-image: url(../me.jpg);
     background-size: 172%;
     background-position-x: -91px;
