@@ -114,48 +114,48 @@ footer {
 /*NAVBARS*/
 
 #aboutbutton {
-		margin-left: 60px;
+		margin-left: 25%;
 		opacity: 1;
 		transition: opacity.3s;
 }
 
 #aboutbutton:hover {
-		margin-left: 60px;
-		opacity: .5;
-		transition: opacity .3s;
-}
-
-#hackbutton {
-		margin-left: 100px;
-		opacity: 1;
-		transition: opacity.3s;
-}
-
-#hackbutton:hover {
-		margin-left: 100px;
-		opacity: .5;
-		transition: opacity .3s;
-}
-
-#contbutton {
-		margin-left: 120px;
-		opacity: 1;
-		transition: opacity .3s;
-}
-
-#contbutton:hover {
-		margin-left: 120px;
+		margin-left: 25%;
 		opacity: .5;
 		transition: opacity .3s;
 }
 
 #projbutton {
-		margin-left: 80px;
+		margin-left: 40%;
 		opacity: 1;
 		transition: opacity .3s;
 }
 #projbutton:hover {
-		margin-left: 80px;
+		margin-left: 40%;
+		opacity: .5;
+		transition: opacity .3s;
+}
+
+#hackbutton {
+		margin-left: 55%;
+		opacity: 1;
+		transition: opacity.3s;
+}
+
+#hackbutton:hover {
+		margin-left: 55%;
+		opacity: .5;
+		transition: opacity .3s;
+}
+
+#contbutton {
+		margin-left: 80%;
+		opacity: 1;
+		transition: opacity .3s;
+}
+
+#contbutton:hover {
+		margin-left: 80%;
 		opacity: .5;
 		transition: opacity .3s;
 }
@@ -378,7 +378,7 @@ section p {
     padding: 10px;
     width: 375px;
 		height: 375px;
-		font-size: 30px;
+		font-size: 29px;
     /*border: 8px solid #ecf0f1;*/
     display: block;
     margin: auto;
