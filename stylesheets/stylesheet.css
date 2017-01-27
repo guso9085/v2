@@ -9,6 +9,16 @@
 		font-size: 90px;
 }
 
+.love {
+		font-family: 'simple-line-icons';
+		content: "\e08a";
+		font-weight: bold;
+		color: #e74c3c;
+
+}
+
+
+
 #ustav {
 		font-family: Lato, sans-serif;
 		font-weight: 100;
@@ -89,8 +99,41 @@
 		transition: color .3s;
 }
 
+.twit {
+		font-weight: bold;
+		color: #27ae60;
+		transition: color .3s;
+}
 
+.twit:hover {
+		font-weight: bold;
+		color: #f1c40f;
+		transition: color .3s;
+}
 
+.face {
+		font-weight: bold;
+		color: #9b59b6;
+		transition: color .3s;
+}
+
+.face:hover {
+		font-weight: bold;
+		color: #e74c3c;
+		transition: color .3s;
+}
+
+.link {
+		font-weight: bold;
+		color: #2980b9;
+		transition: color .3s;
+}
+
+.link:hover {
+		font-weight: bold;
+		color: #f39c12;
+		transition: color .3s;
+}
 
 
 
