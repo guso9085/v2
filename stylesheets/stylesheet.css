@@ -10,9 +10,8 @@
 }
 
 .love {
-		font-family: 'simple-line-icons';
-		content: "\e08a";
 		font-weight: bold;
+		font-size: 20px;
 		color: #e74c3c;
 
 }
