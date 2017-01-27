@@ -224,15 +224,15 @@ body {
 		display:block;
 }
 
-.custom-slick .slick-prev:before {
+.slick-prev:before {
     content: "\e605" !important;
     font-family: 'simple-line-icons' !important;
-    font-size: 22px !important;
+    font-size: 60px !important;
 }
-.custom-slick .slick-next:before {
+.slick-next:before {
     content: "\e606" !important;
     font-family: 'simple-line-icons' !important;
-    font-size: 22px !important;
+    font-size: 60px !important;
 }
 
 #flats {
