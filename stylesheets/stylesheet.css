@@ -114,48 +114,40 @@ footer {
 /*NAVBARS*/
 
 #aboutbutton {
-		margin-left: 25%;
 		opacity: 1;
 		transition: opacity.3s;
 }
 
 #aboutbutton:hover {
-		margin-left: 25%;
 		opacity: .5;
 		transition: opacity .3s;
 }
 
 #projbutton {
-		margin-left: 56%;
 		opacity: 1;
 		transition: opacity .3s;
 }
 #projbutton:hover {
-		margin-left: 56%;
 		opacity: .5;
 		transition: opacity .3s;
 }
 
 #hackbutton {
-		margin-left: 68%;
 		opacity: 1;
 		transition: opacity.3s;
 }
 
 #hackbutton:hover {
-		margin-left: 68%;
 		opacity: .5;
 		transition: opacity .3s;
 }
 
 #contbutton {
-		margin-left: 141%;
 		opacity: 1;
 		transition: opacity .3s;
 }
 
 #contbutton:hover {
-		margin-left: 141%;
 		opacity: .5;
 		transition: opacity .3s;
 }
@@ -539,21 +531,25 @@ section p {
 #about {
 		bottom: 11px;
 	  position: relative;
+		margin-left:5%;
 }
 
 #cont {
 		bottom: 11px;
     position: relative;
+		margin-left:5%
 }
 
 #proj {
 		bottom: 11px;
     position: relative;
+		margin-left:5%;
 }
 
 #hack {
 		bottom: 11px;
 		position: relative;
+		margin-left:5%;
 }
 
 .container {
