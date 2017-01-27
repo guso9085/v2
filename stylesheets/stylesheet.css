@@ -604,6 +604,18 @@ section {
 		vertical-align: bottom;
 }
 
+.icon-arrow-left {
+		display: absolute;
+		opacity: 1;
+		transition: opacity .5s;
+}
+
+.icon-arrow-right {
+		display: absolute;
+		opacity: 1;
+		transition: opacity .5s;
+}
+
 .icon-social-twitter {
 		opacity: 1;
 		transition: opacity .5s;
