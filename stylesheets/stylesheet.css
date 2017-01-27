@@ -225,14 +225,14 @@ body {
 }
 
 .custom-slick .slick-prev:before {
-    content: "\e605";
-    font-family: 'simple-line-icons';
-    font-size: 22px;
+    content: "\e605" !important;
+    font-family: 'simple-line-icons' !important;
+    font-size: 22px !important;
 }
 .custom-slick .slick-next:before {
-    content: "\e606";
-    font-family: 'simple-line-icons';
-    font-size: 22px;
+    content: "\e606" !important;
+    font-family: 'simple-line-icons' !important;
+    font-size: 22px !important;
 }
 
 #flats {
@@ -608,17 +608,6 @@ section {
     text-align: center;
 		box-shadow: 3px 3px 8px rgba(0,0,0,.4);
 }
-
-
-.left {
-		position: absolute;
-}
-
-.right {
-		position: absolute;
-}
-
-*/
 
 .project {
 		vertical-align: bottom;
