@@ -598,6 +598,14 @@ section {
 		box-shadow: 3px 3px 8px rgba(0,0,0,.4);
 }
 
+#left {
+		position: absolute;
+}
+
+#right {
+		position: absolute;
+}
+
 */
 
 .project {
@@ -605,14 +613,22 @@ section {
 }
 
 .icon-arrow-left {
-		display: absolute;
 		opacity: 1;
 		transition: opacity .5s;
 }
 
+.icon-arrow-left:hover {
+		opacity: .5;
+		transition: opacity .5s;
+}
+
 .icon-arrow-right {
-		display: absolute;
 		opacity: 1;
+		transition: opacity .5s;
+}
+
+.icon-arrow-right:hover {
+		opacity: .5;
 		transition: opacity .5s;
 }
 
