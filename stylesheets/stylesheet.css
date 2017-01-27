@@ -598,13 +598,13 @@ section {
 		box-shadow: 3px 3px 8px rgba(0,0,0,.4);
 }
 
-.slick-prev:after {
+.slick-prev:after !important{
 	  content: ">";
 	  color: red;
 	  font-size: 30px;
 }
 
-.slick-next:before {
+.slick-next:before !important{
 	  content: "<";
 	  color: red;
 	  font-size: 30px;
