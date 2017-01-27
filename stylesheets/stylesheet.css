@@ -224,6 +224,17 @@ body {
 		display:block;
 }
 
+.custom-slick .slick-prev:before {
+    content: "\e605";
+    font-family: 'simple-line-icons';
+    font-size: 22px;
+}
+.custom-slick .slick-next:before {
+    content: "\e606";
+    font-family: 'simple-line-icons';
+    font-size: 22px;
+}
+
 #flats {
     top: 0;
     width: 100%;
@@ -598,23 +609,12 @@ section {
 		box-shadow: 3px 3px 8px rgba(0,0,0,.4);
 }
 
-.slick-prev:after !important{
-	  content: ">";
-	  color: red;
-	  font-size: 30px;
-}
 
-.slick-next:before !important{
-	  content: "<";
-	  color: red;
-	  font-size: 30px;
-}
-
-#left {
+.left {
 		position: absolute;
 }
 
-#right {
+.right {
 		position: absolute;
 }
 
