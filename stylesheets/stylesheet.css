@@ -833,6 +833,9 @@ section {
 }
 
 @media (max-width: 486px){
+	#Textbody {
+		margin: 70px auto 149px auto;
+	}
 	#T {
     font-size: 45px;
 	}
