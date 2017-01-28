@@ -598,7 +598,7 @@ section p {
     position: relative;
 		margin-left:5%;
 }
- 
+
 #hack {
 		bottom: 11px;
 		position: relative;
@@ -730,6 +730,36 @@ section {
 
 @media (max-width: 1330px) {
 	#detailbutton {
+			display: none;
+	}
+}
+
+@media (max-width: 1090px) {
+	#about {
+			display: none;
+	}
+	#aboutbutton {
+			display: none;
+	}
+
+	#cont {
+			display: none;
+	}
+	#contbutton {
+			display: none;
+	}
+
+	#proj {
+			display: none;
+	}
+	#projbutton {
+			display: none;
+	}
+
+	#hack {
+			display: none;
+	}
+	#hackbutton {
 			display: none;
 	}
 }
