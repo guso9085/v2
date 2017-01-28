@@ -851,9 +851,6 @@ section {
     text-align: center;
 		width: 100%;
 	}
-	.container {
-    text-align: justify;
-	}
 }
 
 @media (max-width: 382px){
