@@ -4,10 +4,10 @@ $(document).ready(function() {
   });
   $('.projectz').slick({
     dots: true,
-    draggable:false
+    draggable:true
   });
   $('.hackathons').slick({
     dots: true,
-    draggable:false
+    draggable:true
   });
 });
