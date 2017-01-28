@@ -786,6 +786,9 @@ section {
 	#Textbody {
     width: 70%;
 	}
+	#hackathons {
+    width: 100%;
+	}
 }
 
 @media (max-width: 563px){
