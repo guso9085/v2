@@ -299,7 +299,7 @@ body {
     display: block;
     width: 40%;
     margin: 15px auto 120px auto;
-    padding: 0px 20px 20px 20px;
+    padding: 0px 20px 0px 20px;
     font-family: Raleway;
     font-size: 20px;
     color: #34495e;
@@ -815,6 +815,9 @@ section {
 }
 
 @media (max-width: 532px){
+	#Textbody {
+		margin: 50px auto 149px auto;
+	}
 	.contact {
     width: 100%;
     font-size: 18px;
