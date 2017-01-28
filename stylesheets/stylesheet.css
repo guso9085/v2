@@ -725,3 +725,11 @@ section {
 		opacity: .5;
 		transition: opacity .3s;
 }
+
+/*SMALLER SCREENS*/
+
+@media (max-width: 1330px) {
+	#detailbutton {
+			display: none;
+	}
+}
