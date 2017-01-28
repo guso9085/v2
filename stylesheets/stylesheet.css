@@ -305,6 +305,10 @@ body {
     color: #34495e;
 }
 
+.center {
+		text-align: center;
+}
+
 #Name {
     margin: -25px auto 10px;
     display: block;
@@ -526,6 +530,7 @@ section p {
 		font-weight: bold;
 		color: #1abc9c;
 		transition: color .3s;
+		text-align: center;
 }
 
 .resume:hover {
@@ -784,6 +789,7 @@ section {
     	margin-left: 9%;
 	}
 	#Textbody {
+		text-align: justify;
     width: 70%;
 	}
 	#hackathons {
