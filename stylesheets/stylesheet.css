@@ -214,10 +214,12 @@ footer {
 
 .slick-prev {
     left: 12% !important;
+		z-index: 999 !important;
 }
 
 .slick-next {
     right: 15% !important;
+		z-index: 999 !important;
 }
 
 .contact {
