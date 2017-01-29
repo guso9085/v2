@@ -731,6 +731,11 @@ section {
 		transition: opacity .3s;
 }
 
+.icon-link {
+		font-size: 10px;
+		color: red;
+}
+
 /*SMALLER SCREENS*/
 
 @media (max-width: 1330px) {
