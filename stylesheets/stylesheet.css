@@ -732,8 +732,9 @@ section {
 }
 
 .icon-link {
-		font-size: 10px;
-		color: red;
+    font-size: 23px;
+    color: white;
+    opacity: .7;
 }
 
 /*SMALLER SCREENS*/
