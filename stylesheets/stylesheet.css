@@ -341,8 +341,9 @@ a {
 
 #portrait {
     background-image: url(../me.png);
-    background-size: 100%;
+    background-size: 104%;
     height: 250px;
+    background-position-x: -6px;
     border-radius: 50%;
     width: 250px;
     border: 4px solid #ecf0f1;
