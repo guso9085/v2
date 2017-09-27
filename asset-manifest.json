@@ -1,17 +1,17 @@
 {
-  "main.css": "static/css/main.335fce9c.css",
-  "main.css.map": "static/css/main.335fce9c.css.map",
-  "main.js": "static/js/main.514258ed.js",
-  "main.js.map": "static/js/main.514258ed.js.map",
-  "static/media/github.png": "static/media/github.66009fb9.png",
-  "static/media/linkedin.png": "static/media/linkedin.eab662da.png",
-  "static/media/photos.png": "static/media/photos.7a3253f0.png",
-  "static/media/resume.png": "static/media/resume.3154502a.png",
-  "static/media/site-bigbox_info.png": "static/media/site-bigbox_info.89699f62.png",
+  "main.css": "static/css/main.7fe2d32e.css",
+  "main.css.map": "static/css/main.7fe2d32e.css.map",
+  "main.js": "static/js/main.fe966fe2.js",
+  "main.js.map": "static/js/main.fe966fe2.js.map",
+  "static/media/github-bold.png": "static/media/github-bold.ace77418.png",
+  "static/media/linkedin-bold.png": "static/media/linkedin-bold.8008c104.png",
+  "static/media/photos-bold.png": "static/media/photos-bold.4f2a753d.png",
+  "static/media/resume-bold.png": "static/media/resume-bold.f1ad2a2e.png",
+  "static/media/site-bigbox.png": "static/media/site-bigbox.eb613f0b.png",
   "static/media/site-chained-diamond.png": "static/media/site-chained-diamond.4012232c.png",
   "static/media/site-creature.png": "static/media/site-creature.a3c3da18.png",
   "static/media/site-hanging-skate.png": "static/media/site-hanging-skate.da817aa2.png",
   "static/media/site-projectbox-h.png": "static/media/site-projectbox-h.4e2464ef.png",
   "static/media/site-projectbox.png": "static/media/site-projectbox.d47f1380.png",
-  "static/media/soundcloud.png": "static/media/soundcloud.be7976fa.png"
+  "static/media/soundcloud-bold.png": "static/media/soundcloud-bold.0a49ad51.png"
 }
