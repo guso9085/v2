@@ -1,6 +1,6 @@
 # guso.io
 ##  Technologies used...
-* react
+* ReactJS
 * nodeJS
 * create-react-app
 * react-spark-scroll
